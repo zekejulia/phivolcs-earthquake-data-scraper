@@ -228,7 +228,7 @@ The earthquake data itself belongs to PHIVOLCS and is subject to their terms of 
 
 ## 📧 Contact
 
-For questions or suggestions, please [open an issue](https://github.com/zekejulia/phivolcs-earthquake-scraper/issues).
+For questions or suggestions, please [open an issue](https://github.com/zekejulia/phivolcs-earthquake-data-scraper/issues).
 
 ## 🔄 Last Updated
 
