@@ -15,7 +15,7 @@ This repository automatically collects and archives earthquake data from PHIVOLC
 ## 🤖 Automated Updates
 
 - **Schedule:** Daily at 10:00 AM Philippine Time (2:00 AM UTC)
-- **Data Source:** [PHIVOLCS Latest Earthquake Information](https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/)
+- **Data Source:** [PHIVOLCS Latest Earthquake Information](https://earthquake.phivolcs.dost.gov.ph/)
 - **No manual intervention required** - Everything runs automatically!
 
 ## 📁 Data Files
