@@ -1,12 +1,14 @@
+---
 name: Scrape PHIVOLCS Earthquake Data
 
 on:
   schedule:
     # Runs daily at 2 AM UTC (10 AM Philippine Time)
     - cron: '0 2 * * *'
-  
-  # Allows manual triggering from GitHub UI
   workflow_dispatch:
+
+permissions:
+  contents: write  # ✅ allow commits & pushes
 
 jobs:
   scrape:
@@ -15,6 +17,8 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}  # ✅ use token for checkout
     
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -30,8 +34,13 @@ jobs:
         python scrape_phivolcs.py
     
     - name: Commit and push if changes
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # ✅ auth for push
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add -A
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update earthquake data - $(date +'%Y-%m-%d %H:%M:%S UTC')" && git push)
+        git diff --quiet && git diff --staged --quiet || (
+          git commit -m "Update earthquake data - $(date +'%Y-%m-%d %H:%M:%S UTC')" &&
+          git push
+        )
