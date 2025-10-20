@@ -1,6 +1,6 @@
 # 🌏 PHIVOLCS Earthquake Data Scraper
 
-[![Scrape PHIVOLCS Data](https://github.com/zekejulia/phivolcs-earthquake-scraper/actions/workflows/scrape-earthquake-data.yml/badge.svg)](https://github.com/zekejulia/phivolcs-earthquake-scraper/actions/workflows/scrape-earthquake-data.yml)
+[![Scrape PHIVOLCS Data](https://github.com/zekejulia/phivolcs-earthquake-data-scraper/actions/workflows/scrape-earthquake-data.yml/badge.svg)](https://github.com/zekejulia/phivolcs-earthquake-data-scraper/actions/workflows/scrape-earthquake-data.yml)
 
 Automated daily scraping of earthquake data from the [Philippine Institute of Volcanology and Seismology (PHIVOLCS)](https://earthquake.phivolcs.dost.gov.ph/).
 
