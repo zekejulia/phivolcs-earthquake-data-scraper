@@ -3446,46 +3446,81 @@
 01 February 2026 - 12:50 AM,13.46,120.37,4,2.0,029  km S 04Â° W of Looc (Occidental Mindoro),February,2026
 01 February 2026 - 12:30 AM,6.46,123.84,6,1.9,025  km S 66Â° W of Kalamansig (Sultan Kudarat),February,2026
 01 February 2026 - 12:02 AM,8.47,126.92,2,2.1,066  km N 80Â° E of Hinatuan (Surigao Del Sur),February,2026
-10 March 2026 - 07:29 AM,9.7,126.13,8,2.8,010  km S 18Â° W of General Luna (Surigao Del Norte),March,2026
-10 March 2026 - 06:39 AM,12.14,125.64,13,2.6,015  km S 72Â° E of San Policarpo (Eastern Samar),March,2026
-10 March 2026 - 06:31 AM,12.2,125.72,21,2.7,023  km N 85Â° E of San Policarpo (Eastern Samar),March,2026
-10 March 2026 - 06:14 AM,10.73,124.33,22,2.6,011  km N 35Â° W of San Francisco (Cebu),March,2026
-10 March 2026 - 06:09 AM,19.04,121.12,11,2.1,012  km S 53Â° W of Dalupiri Island (Calayan) (Cagayan),March,2026
-10 March 2026 - 05:16 AM,12.22,125.62,24,2.1,013  km N 70Â° E of San Policarpo (Eastern Samar),March,2026
+11 March 2026 - 09:10 AM,12.12,125.67,14,3.2,019  km S 69Â° E of San Policarpo (Eastern Samar),March,2026
+11 March 2026 - 08:22 AM,17.24,120.06,5,2.4,041  km N 78Â° W of City Of Candon (Ilocos Sur),March,2026
+11 March 2026 - 04:51 AM,17.25,120.06,7,3.3,048  km S 47Â° W of Caoayan (Ilocos Sur),March,2026
+11 March 2026 - 04:15 AM,13.32,120.58,34,2.0,011  km N 06Â° W of Mamburao (Occidental Mindoro),March,2026
+11 March 2026 - 03:11 AM,13.1,120.73,31,1.5,002  km N 30Â° E of Santa Cruz (Occidental Mindoro),March,2026
+11 March 2026 - 02:53 AM,9.61,126.48,33,2.0,040  km S 61Â° E of General Luna (Surigao Del Norte),March,2026
+11 March 2026 - 02:51 AM,12.2,125.85,14,3.8,029  km S 77Â° E of San Policarpo (Eastern Samar),March,2026
+11 March 2026 - 02:35 AM,6.82,126.28,29,1.4,016  km S 26Â° E of City Of Mati (Davao Oriental),March,2026
+11 March 2026 - 02:18 AM,12.21,125.87,15,4.0,039  km N 85Â° E of San Policarpo (Eastern Samar),March,2026
+11 March 2026 - 02:01 AM,19.32,121.21,23,2.0,024  km N 02Â° E of Dalupiri Island (Calayan) (Cagayan),March,2026
+11 March 2026 - 01:57 AM,12.08,125.61,15,3.2,015  km S 44Â° E of San Policarpo (Eastern Samar),March,2026
+11 March 2026 - 01:56 AM,12.1,125.71,12,3.3,024  km S 67Â° E of San Policarpo (Eastern Samar),March,2026
+11 March 2026 - 01:33 AM,3.06,125.83,97,3.9,264  km S 10Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),March,2026
+11 March 2026 - 01:06 AM,12.23,125.89,15,4.1,042  km N 82Â° E of San Policarpo (Eastern Samar),March,2026
+11 March 2026 - 01:04 AM,12.08,125.62,12,2.8,017  km S 46Â° E of San Policarpo (Eastern Samar),March,2026
+11 March 2026 - 12:37 AM,12.14,125.61,13,2.4,012  km S 71Â° E of San Policarpo (Eastern Samar),March,2026
+11 March 2026 - 12:32 AM,7.19,123.48,21,2.0,031  km S 14Â° E of Tabina (Zamboanga Del Sur),March,2026
+10 March 2026 - 11:42 PM,11.13,124.11,8,2.2,017  km N 56Â° E of City Of Bogo (Cebu),March,2026
+10 March 2026 - 11:29 PM,7.6,126.7,21,2.6,016  km N 81Â° E of Baganga (Davao Oriental),March,2026
+10 March 2026 - 11:17 PM,13.46,120.75,32,1.8,003  km N 46Â° E of Abra De Ilog (Occidental Mindoro),March,2026
+10 March 2026 - 11:06 PM,12.14,125.84,13,4.0,037  km S 84Â° E of San Policarpo (Eastern Samar),March,2026
+10 March 2026 - 10:23 PM,14.17,120.46,117,2.3,022  km N 61Â° W of Nasugbu (Batangas),March,2026
+10 March 2026 - 10:12 PM,12.13,125.64,16,2.6,016  km S 68Â° E of San Policarpo (Eastern Samar),March,2026
+10 March 2026 - 09:56 PM,6.63,123.72,11,2.0,038  km N 77Â° W of Kalamansig (Sultan Kudarat),March,2026
+10 March 2026 - 09:55 PM,6.57,123.67,10,2.0,042  km N 88Â° W of Kalamansig (Sultan Kudarat),March,2026
+10 March 2026 - 08:24 PM,7.4,125.9,32,1.6,005  km N 53Â° E of Maco (Davao De Oro),March,2026
+10 March 2026 - 08:08 PM,7.99,126.23,17,2.1,020  km N 51Â° W of Boston (Davao Oriental),March,2026
+10 March 2026 - 07:48 PM,7.73,126.44,30,1.8,007  km S 15Â° W of Cateel (Davao Oriental),March,2026
+10 March 2026 - 07:04 PM,11.1,124.08,9,2.0,013  km N 57Â° E of City Of Bogo (Cebu),March,2026
+10 March 2026 - 06:50 PM,11.01,124.02,6,1.9,006  km S 46Â° E of City Of Bogo (Cebu),March,2026
+10 March 2026 - 06:13 PM,12.78,120.99,23,2.4,023  km N 14Â° E of Calintaan (Occidental Mindoro),March,2026
+10 March 2026 - 01:39 PM,13.21,121.21,33,1.6,009  km N 65Â° W of Victoria (Oriental Mindoro),March,2026
+10 March 2026 - 12:42 PM,7.47,126.72,15,2.8,021  km S 57Â° E of Baganga (Davao Oriental),March,2026
+10 March 2026 - 12:23 PM,16.69,120.28,11,2.0,007  km N 68Â° W of San Juan (La Union),March,2026
+10 March 2026 - 07:42 AM,7.75,127.07,12,2.6,059  km N 71Â° E of Baganga (Davao Oriental),March,2026
+10 March 2026 - 07:29 AM,9.66,126.06,18,2.8,017  km S 36Â° W of General Luna (Surigao Del Norte),March,2026
+10 March 2026 - 06:39 AM,12.1,125.65,16,2.6,017  km S 61Â° E of San Policarpo (Eastern Samar),March,2026
+10 March 2026 - 06:31 AM,12.15,125.6,13,2.7,011  km S 70Â° E of San Policarpo (Eastern Samar),March,2026
+10 March 2026 - 06:14 AM,10.78,124.24,10,2.6,021  km N 47Â° W of San Francisco (Cebu),March,2026
+10 March 2026 - 06:09 AM,19.0,121.14,11,2.2,013  km S 32Â° W of Dalupiri Island (Calayan) (Cagayan),March,2026
+10 March 2026 - 05:16 AM,12.2,125.68,26,2.2,019  km N 83Â° E of San Policarpo (Eastern Samar),March,2026
 10 March 2026 - 04:45 AM,13.06,121.08,22,1.7,025  km S 60Â° W of Victoria (Oriental Mindoro),March,2026
-10 March 2026 - 03:37 AM,12.11,125.81,11,4.0,033  km S 77Â° E of San Policarpo (Eastern Samar),March,2026
-10 March 2026 - 03:23 AM,13.48,122.61,32,2.0,010  km S 26Â° E of San Narciso (Quezon),March,2026
+10 March 2026 - 03:37 AM,12.18,125.91,16,4.0,044  km S 90Â° E of San Policarpo (Eastern Samar),March,2026
+10 March 2026 - 03:23 AM,13.55,122.85,16,2.0,021  km N 77Â° W of Pasacao (Camarines Sur),March,2026
 10 March 2026 - 03:17 AM,12.16,125.69,4,2.4,020  km S 84Â° E of San Policarpo (Eastern Samar),March,2026
 10 March 2026 - 03:16 AM,11.02,124.47,32,1.8,010  km S 71Â° E of Palompon (Leyte),March,2026
-10 March 2026 - 02:50 AM,6.96,125.0,10,3.1,009  km N 86Â° W of Makilala (Cotabato),March,2026
-10 March 2026 - 02:49 AM,12.06,125.55,11,2.6,014  km S 21Â° E of San Policarpo (Eastern Samar),March,2026
-10 March 2026 - 02:45 AM,12.1,125.66,21,2.2,019  km S 64Â° E of San Policarpo (Eastern Samar),March,2026
+10 March 2026 - 02:50 AM,6.93,124.96,8,3.1,014  km S 78Â° W of Makilala (Cotabato),March,2026
+10 March 2026 - 02:49 AM,12.13,125.57,12,2.9,009  km S 47Â° E of San Policarpo (Eastern Samar),March,2026
+10 March 2026 - 02:45 AM,12.06,125.55,8,2.2,014  km S 19Â° E of San Policarpo (Eastern Samar),March,2026
 10 March 2026 - 12:59 AM,6.81,124.73,13,1.5,004  km S 60Â° W of General Salipada K. Pendatun (Maguindanao Del Sur),March,2026
-10 March 2026 - 12:45 AM,12.11,125.54,12,2.4,009  km S 21Â° E of San Policarpo (Eastern Samar),March,2026
-10 March 2026 - 12:40 AM,10.14,126.0,30,2.0,014  km N 15Â° W of Santa Monica (Surigao Del Norte),March,2026
-10 March 2026 - 12:00 AM,12.02,125.6,5,3.1,020  km S 29Â° E of San Policarpo (Eastern Samar),March,2026
-09 March 2026 - 11:51 PM,12.11,125.77,7,3.1,030  km S 74Â° E of San Policarpo (Eastern Samar),March,2026
-09 March 2026 - 10:52 PM,19.9,121.39,34,1.5,069  km S 46Â° W of Sabtang (Batanes),March,2026
-09 March 2026 - 10:29 PM,21.23,121.98,88,2.9,051  km N 17Â° E of Itbayat (Batanes),March,2026
+10 March 2026 - 12:45 AM,12.07,125.51,2,2.5,012  km S 03Â° E of San Policarpo (Eastern Samar),March,2026
+10 March 2026 - 12:40 AM,10.12,126.06,18,2.6,012  km N 09Â° W of Burgos (Surigao Del Norte),March,2026
+10 March 2026 - 12:00 AM,12.09,125.64,14,3.2,017  km S 54Â° E of San Policarpo (Eastern Samar),March,2026
+09 March 2026 - 11:51 PM,12.28,126.0,16,3.2,055  km N 78Â° E of San Policarpo (Eastern Samar),March,2026
+09 March 2026 - 10:52 PM,19.88,121.46,26,1.7,063  km N 49Â° W of Babuyan Island (Calayan) (Cagayan),March,2026
+09 March 2026 - 10:29 PM,21.28,121.48,66,3.0,066  km N 33Â° W of Itbayat (Batanes),March,2026
 09 March 2026 - 09:30 PM,17.83,119.93,17,2.6,053  km N 60Â° W of Santa Catalina (Ilocos Sur),March,2026
-09 March 2026 - 08:51 PM,13.16,120.78,31,1.8,011  km N 37Â° E of Santa Cruz (Occidental Mindoro),March,2026
+09 March 2026 - 08:51 PM,13.16,120.83,27,2.0,015  km N 55Â° E of Santa Cruz (Occidental Mindoro),March,2026
 09 March 2026 - 08:09 PM,12.08,125.63,10,1.8,017  km S 50Â° E of San Policarpo (Eastern Samar),March,2026
-09 March 2026 - 08:00 PM,12.3,125.75,25,2.1,029  km N 63Â° E of San Policarpo (Eastern Samar),March,2026
+09 March 2026 - 08:00 PM,12.19,125.46,21,2.2,005  km N 79Â° W of San Policarpo (Eastern Samar),March,2026
 09 March 2026 - 07:26 PM,12.17,125.62,21,1.4,012  km S 85Â° E of San Policarpo (Eastern Samar),March,2026
-09 March 2026 - 07:12 PM,12.26,125.93,13,3.1,047  km N 79Â° E of San Policarpo (Eastern Samar),March,2026
-09 March 2026 - 07:04 PM,12.13,125.59,17,2.0,011  km S 61Â° E of San Policarpo (Eastern Samar),March,2026
+09 March 2026 - 07:12 PM,12.29,125.96,17,3.2,051  km N 76Â° E of San Policarpo (Eastern Samar),March,2026
+09 March 2026 - 07:04 PM,12.12,125.62,13,2.2,014  km S 61Â° E of San Policarpo (Eastern Samar),March,2026
 09 March 2026 - 06:52 PM,12.1,125.7,13,4.6,022  km S 68Â° E of San Policarpo (Eastern Samar),March,2026
 09 March 2026 - 06:52 PM,17.87,120.68,2,1.8,005  km S 17Â° E of Nueva Era (Ilocos Norte),March,2026
 09 March 2026 - 06:28 PM,9.0,126.65,5,1.7,039  km N 77Â° E of Cagwait (Surigao Del Sur),March,2026
 09 March 2026 - 06:24 PM,10.0,125.67,21,3.5,008  km N 04Â° W of Cagdianao (Dinagat Islands),March,2026
-09 March 2026 - 05:41 PM,12.16,125.72,26,3.2,024  km S 84Â° E of San Policarpo (Eastern Samar),March,2026
+09 March 2026 - 05:41 PM,12.15,125.79,17,3.2,030  km S 83Â° E of San Policarpo (Eastern Samar),March,2026
 09 March 2026 - 05:14 PM,14.88,122.51,2,1.6,028  km N 44Â° E of Jomalig (Quezon),March,2026
-09 March 2026 - 04:50 PM,12.17,125.76,10,3.5,027  km S 88Â° E of San Policarpo (Eastern Samar),March,2026
+09 March 2026 - 04:50 PM,12.08,125.75,4,3.5,029  km S 68Â° E of San Policarpo (Eastern Samar),March,2026
 09 March 2026 - 04:38 PM,12.15,125.77,12,3.1,029  km S 84Â° E of San Policarpo (Eastern Samar),March,2026
 09 March 2026 - 04:27 PM,17.0,121.49,23,1.4,009  km N 02Â° W of Alfonso Lista (Ifugao),March,2026
-09 March 2026 - 02:36 PM,9.51,122.43,23,3.5,011  km S 23Â° W of Hinoba-an (Negros Occidental),March,2026
-09 March 2026 - 01:42 PM,10.94,123.97,9,1.7,012  km S 05Â° W of City Of Bogo (Cebu),March,2026
-09 March 2026 - 01:21 PM,8.56,122.61,24,2.5,048  km N 74Â° W of Jose Dalman (Zamboanga Del Norte),March,2026
+09 March 2026 - 02:36 PM,9.51,122.36,33,3.4,015  km S 45Â° W of Hinoba-an (Negros Occidental),March,2026
+09 March 2026 - 01:42 PM,10.91,123.93,9,2.3,011  km S 73Â° W of Tabogon (Cebu),March,2026
+09 March 2026 - 01:21 PM,8.58,122.65,20,2.5,044  km N 70Â° W of Jose Dalman (Zamboanga Del Norte),March,2026
 09 March 2026 - 12:53 PM,6.65,124.0,10,1.8,012  km N 27Â° W of Kalamansig (Sultan Kudarat),March,2026
 09 March 2026 - 12:46 PM,10.03,125.97,21,2.1,008  km N 27Â° W of San Benito (Surigao Del Norte),March,2026
 09 March 2026 - 11:26 AM,6.31,126.88,30,3.6,095  km S 30Â° E of Tarragona (Davao Oriental),March,2026
