@@ -3625,7 +3625,6 @@
 28 March 2026 - 11:33 AM,5.62,125.67,189,4.9,028  km N 53Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),March,2026
 28 March 2026 - 11:21 AM,11.01,126.43,15,2.7,077  km S 88Â° E of Guiuan (Eastern Samar),March,2026
 28 March 2026 - 10:56 AM,8.0,126.85,13,1.8,049  km N 62Â° E of Cateel (Davao Oriental),March,2026
-28 March 2026 - 09:37 AM,10.39,125.5,13,1.5,010  km N 70Â° W of Loreto (Dinagat Islands),March,2026
 28 March 2026 - 08:21 AM,15.08,119.91,24,2.4,017  km N 84Â° W of San Felipe (Zambales),March,2026
 28 March 2026 - 08:02 AM,10.94,123.98,13,2.1,012  km S 02Â° E of City Of Bogo (Cebu),March,2026
 28 March 2026 - 07:45 AM,7.37,126.47,124,3.4,012  km N 66Â° W of Caraga (Davao Oriental),March,2026
@@ -4696,64 +4695,124 @@
 01 March 2026 - 12:51 AM,15.44,121.7,21,1.5,033  km N 80Â° E of Dingalan (Aurora),March,2026
 01 March 2026 - 12:29 AM,14.05,123.38,5,2.1,013  km N 76Â° E of Siruma (Camarines Sur),March,2026
 01 March 2026 - 12:16 AM,16.62,122.02,27,1.8,025  km S 63Â° E of San Guillermo (Isabela),March,2026
+16 April 2026 - 11:47 AM,16.23,120.24,028,1.6,017  km S 54Â° W of Agoo (La Union),April,2026
+16 April 2026 - 11:00 AM,05.22,126.41,008,2.7,107  km S 75Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),April,2026
+16 April 2026 - 10:53 AM,18.34,120.76,032,1.7,015  km N 87Â° E of Pasuquin (Ilocos Norte),April,2026
+16 April 2026 - 10:21 AM,16.23,120.36,005,2.1,006  km S 28Â° W of Santo Tomas (La Union),April,2026
+16 April 2026 - 09:44 AM,15.03,122.08,002,2.0,024  km N 31Â° E of Burdeos (Quezon),April,2026
+16 April 2026 - 08:33 AM,19.17,121.58,022,1.5,014  km S 48Â° E of Calayan (Cagayan),April,2026
+16 April 2026 - 08:02 AM,07.99,127.67,003,3.7,130  km N 69Â° E of Baganga (Davao Oriental),April,2026
+16 April 2026 - 06:51 AM,19.13,120.94,032,1.9,028  km N 85Â° W of Dalupiri Island (Calayan) (Cagayan),April,2026
+16 April 2026 - 05:18 AM,12.27,124.72,064,2.1,011  km S 73Â° E of Lope De Vega (Northern Samar),April,2026
+16 April 2026 - 05:11 AM,19.16,121.24,027,2.1,007  km N 32Â° E of Dalupiri Island (Calayan) (Cagayan),April,2026
+16 April 2026 - 05:01 AM,08.92,126.74,006,2.4,049  km N 90Â° E of Cagwait (Surigao Del Sur),April,2026
+16 April 2026 - 04:57 AM,07.37,126.68,034,2.2,014  km N 68Â° E of Caraga (Davao Oriental),April,2026
+16 April 2026 - 04:29 AM,13.39,120.57,020,1.4,012  km S 74Â° E of Paluan (Occidental Mindoro),April,2026
+16 April 2026 - 04:14 AM,14.98,122.06,004,2.8,018  km N 32Â° E of Burdeos (Quezon),April,2026
+16 April 2026 - 04:04 AM,13.43,120.58,022,1.6,012  km N 84Â° E of Paluan (Occidental Mindoro),April,2026
+16 April 2026 - 03:57 AM,17.75,120.71,032,1.5,003  km N 13Â° E of Lagayan (Abra),April,2026
+16 April 2026 - 03:51 AM,13.14,120.35,002,2.4,028  km S 71Â° W of Mamburao (Occidental Mindoro),April,2026
+16 April 2026 - 02:55 AM,15.21,120.11,031,1.7,008  km N 46Â° E of Cabangan (Zambales),April,2026
+16 April 2026 - 02:33 AM,16.13,120.40,112,2.5,001  km N 52Â° W of San Fabian (Pangasinan),April,2026
+16 April 2026 - 02:23 AM,14.99,122.01,017,2.2,017  km N 15Â° E of Burdeos (Quezon),April,2026
+16 April 2026 - 02:07 AM,05.95,124.49,028,2.0,012  km S 04Â° W of Maitum (Sarangani),April,2026
+16 April 2026 - 01:42 AM,13.48,120.27,007,1.9,022  km N 73Â° W of Paluan (Occidental Mindoro),April,2026
+16 April 2026 - 01:36 AM,17.15,122.07,024,2.1,019  km N 88Â° E of City Of Ilagan (Isabela),April,2026
+16 April 2026 - 01:15 AM,15.06,122.10,002,3.5,028  km N 30Â° E of Burdeos (Quezon),April,2026
+16 April 2026 - 01:12 AM,10.75,126.86,010,2.5,115  km N 46Â° E of Burgos (Surigao Del Norte),April,2026
+16 April 2026 - 01:06 AM,07.49,126.67,029,3.1,015  km S 51Â° E of Baganga (Davao Oriental),April,2026
+16 April 2026 - 12:36 AM,20.32,121.81,113,2.3,007  km S 74Â° W of Sabtang (Batanes),April,2026
+16 April 2026 - 12:26 AM,09.51,123.97,010,2.8,011  km S 07Â° E of Alburquerque (Bohol),April,2026
+16 April 2026 - 12:19 AM,06.42,123.59,013,2.3,053  km S 77Â° W of Kalamansig (Sultan Kudarat),April,2026
+15 April 2026 - 11:24 PM,17.97,120.44,019,1.4,006  km N 37Â° W of Badoc (Ilocos Norte),April,2026
+15 April 2026 - 11:15 PM,19.66,121.58,040,3.2,039  km N 64Â° W of Babuyan Island (Calayan) (Cagayan),April,2026
+15 April 2026 - 10:33 PM,14.90,122.49,003,2.4,028  km N 38Â° E of Jomalig (Quezon),April,2026
+15 April 2026 - 09:47 PM,14.95,122.03,002,1.7,013  km N 29Â° E of Burdeos (Quezon),April,2026
+15 April 2026 - 09:46 PM,14.87,121.91,031,1.7,007  km N 64Â° W of Burdeos (Quezon),April,2026
+15 April 2026 - 09:43 PM,15.16,122.06,002,3.4,037  km N 16Â° E of Burdeos (Quezon),April,2026
+15 April 2026 - 09:26 PM,07.34,126.70,007,2.7,015  km N 86Â° E of Caraga (Davao Oriental),April,2026
+15 April 2026 - 09:23 PM,09.27,122.53,034,3.9,019  km S 38Â° W of Basay (Negros Oriental),April,2026
+15 April 2026 - 09:12 PM,06.99,127.06,006,2.3,063  km S 67Â° E of Manay (Davao Oriental),April,2026
+15 April 2026 - 09:10 PM,15.66,120.25,021,1.9,013  km S 63Â° W of San Clemente (Tarlac),April,2026
+15 April 2026 - 09:07 PM,13.64,120.64,069,1.2,022  km S 03Â° E of Calatagan (Batangas),April,2026
+15 April 2026 - 08:53 PM,13.76,120.87,032,2.2,008  km N 82Â° W of Mabini (Batangas),April,2026
+15 April 2026 - 08:45 PM,15.03,122.07,002,3.1,023  km N 29Â° E of Burdeos (Quezon),April,2026
+15 April 2026 - 08:09 PM,12.80,123.15,029,2.4,015  km S 45Â° W of Claveria (Masbate),April,2026
+15 April 2026 - 07:59 PM,20.62,122.14,106,2.3,027  km N 43Â° E of Basco (Batanes),April,2026
+15 April 2026 - 07:47 PM,18.44,120.87,019,1.5,004  km S 58Â° W of Adams (Ilocos Norte),April,2026
+15 April 2026 - 07:19 PM,09.46,126.41,017,2.2,031  km N 49Â° E of Cortes (Surigao Del Sur),April,2026
+15 April 2026 - 07:13 PM,09.47,126.20,004,2.4,032  km N 30Â° E of Cortes (Surigao Del Sur),April,2026
+15 April 2026 - 06:57 PM,09.17,125.87,003,2.6,015  km S 46Â° W of Madrid (Surigao Del Sur),April,2026
+15 April 2026 - 06:40 PM,15.04,122.04,004,4.5,023  km N 18Â° E of Burdeos (Quezon),April,2026
+15 April 2026 - 06:17 PM,13.76,120.68,034,1.7,020  km S 14Â° W of Balayan (Batangas),April,2026
+15 April 2026 - 05:47 PM,13.37,120.09,024,2.1,041  km S 82Â° W of Paluan (Occidental Mindoro),April,2026
+15 April 2026 - 03:51 PM,16.77,121.12,036,1.4,003  km S 04Â° W of Lagawe (Ifugao),April,2026
+15 April 2026 - 03:34 PM,15.26,122.12,033,2.4,048  km N 19Â° E of Burdeos (Quezon),April,2026
+15 April 2026 - 03:32 PM,13.18,124.49,053,2.4,035  km N 64Â° E of Prieto Diaz (Sorsogon),April,2026
+15 April 2026 - 03:29 PM,14.15,120.42,083,2.1,025  km N 70Â° W of Nasugbu (Batangas),April,2026
+15 April 2026 - 02:25 PM,16.14,119.77,022,1.8,004  km N 52Â° W of Agno (Pangasinan),April,2026
+15 April 2026 - 01:56 PM,14.78,121.84,031,1.5,013  km N 53Â° W of Polillo (Quezon),April,2026
+15 April 2026 - 01:31 PM,09.11,126.50,025,2.3,030  km N 46Â° E of Cagwait (Surigao Del Sur),April,2026
+15 April 2026 - 01:00 PM,15.05,122.06,010,4.1,025  km N 23Â° E of Burdeos (Quezon),April,2026
+15 April 2026 - 11:57 AM,10.38,123.30,014,2.0,006  km N 31Â° W of Vallehermoso (Negros Oriental),April,2026
 15 April 2026 - 11:45 AM,05.27,125.97,028,2.6,060  km S 68Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),April,2026
-15 April 2026 - 10:15 AM,15.04,122.04,002,3.1,023  km N 21Â° E of Burdeos (Quezon),April,2026
+15 April 2026 - 10:15 AM,15.05,122.09,003,3.1,026  km N 30Â° E of Burdeos (Quezon),April,2026
 15 April 2026 - 09:21 AM,10.60,122.36,004,4.3,007  km S 30Â° E of Guimbal (Iloilo),April,2026
 15 April 2026 - 08:51 AM,07.93,126.44,033,1.9,010  km N 48Â° E of Boston (Davao Oriental),April,2026
-15 April 2026 - 08:31 AM,13.23,120.45,005,2.0,016  km N 89Â° W of Mamburao (Occidental Mindoro),April,2026
-15 April 2026 - 08:30 AM,06.11,123.49,033,2.1,078  km S 82Â° W of Palimbang (Sultan Kudarat),April,2026
-15 April 2026 - 08:14 AM,17.68,122.59,031,2.6,050  km N 49Â° E of Maconacon (Isabela),April,2026
-15 April 2026 - 07:57 AM,15.04,122.05,002,3.1,023  km N 22Â° E of Burdeos (Quezon),April,2026
-15 April 2026 - 07:13 AM,05.66,126.91,157,3.0,143  km S 79Â° E of Jose Abad Santos (Davao Occidental),April,2026
-15 April 2026 - 07:01 AM,19.53,122.19,132,2.6,029  km N 85Â° E of Babuyan Island (Calayan) (Cagayan),April,2026
-15 April 2026 - 05:42 AM,13.37,125.42,026,3.1,097  km N 20Â° E of Palapag (Northern Samar),April,2026
+15 April 2026 - 08:31 AM,13.27,120.49,006,2.0,012  km N 68Â° W of Mamburao (Occidental Mindoro),April,2026
+15 April 2026 - 08:30 AM,06.06,123.45,033,2.3,084  km S 78Â° W of Palimbang (Sultan Kudarat),April,2026
+15 April 2026 - 08:14 AM,17.66,122.59,030,2.6,048  km N 40Â° E of Divilacan (Isabela),April,2026
+15 April 2026 - 07:57 AM,15.03,122.04,003,3.1,023  km N 24Â° E of Burdeos (Quezon),April,2026
+15 April 2026 - 07:13 AM,05.71,126.85,156,3.0,136  km S 81Â° E of Jose Abad Santos (Davao Occidental),April,2026
+15 April 2026 - 07:01 AM,19.58,122.08,153,2.6,019  km N 65Â° E of Babuyan Island (Calayan) (Cagayan),April,2026
+15 April 2026 - 05:43 AM,13.35,125.37,018,2.8,093  km N 17Â° E of Palapag (Northern Samar),April,2026
 15 April 2026 - 04:36 AM,13.56,121.53,002,1.6,032  km S 26Â° E of San Juan (Batangas),April,2026
-15 April 2026 - 04:18 AM,06.55,123.58,002,2.6,052  km S 90Â° W of Kalamansig (Sultan Kudarat),April,2026
+15 April 2026 - 04:18 AM,06.32,123.50,016,2.8,066  km S 67Â° W of Kalamansig (Sultan Kudarat),April,2026
 15 April 2026 - 04:17 AM,12.79,125.10,009,2.9,026  km N 22Â° E of Laoang (Northern Samar),April,2026
-15 April 2026 - 04:11 AM,13.32,125.37,025,2.9,090  km N 18Â° E of Palapag (Northern Samar),April,2026
-15 April 2026 - 04:10 AM,07.74,126.88,007,2.5,040  km N 63Â° E of Baganga (Davao Oriental),April,2026
-15 April 2026 - 04:05 AM,04.31,126.95,025,3.8,209  km S 54Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),April,2026
-15 April 2026 - 03:35 AM,13.45,120.78,029,1.7,006  km N 81Â° E of Abra De Ilog (Occidental Mindoro),April,2026
-15 April 2026 - 03:35 AM,04.89,126.11,027,2.9,096  km S 53Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),April,2026
-15 April 2026 - 03:26 AM,19.81,120.18,014,2.6,133  km N 54Â° W of Dalupiri Island (Calayan) (Cagayan),April,2026
+15 April 2026 - 04:11 AM,13.29,125.33,025,3.0,086  km N 16Â° E of Palapag (Northern Samar),April,2026
+15 April 2026 - 04:10 AM,07.73,126.88,008,2.5,039  km N 63Â° E of Baganga (Davao Oriental),April,2026
+15 April 2026 - 04:05 AM,03.94,126.86,017,3.8,228  km S 44Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),April,2026
+15 April 2026 - 03:35 AM,13.43,120.75,029,1.7,003  km S 65Â° E of Abra De Ilog (Occidental Mindoro),April,2026
+15 April 2026 - 03:35 AM,04.72,125.97,073,2.9,098  km S 39Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),April,2026
+15 April 2026 - 03:26 AM,19.62,120.41,015,2.6,102  km N 56Â° W of Dalupiri Island (Calayan) (Cagayan),April,2026
 15 April 2026 - 03:25 AM,11.23,124.10,024,1.6,024  km N 34Â° E of City Of Bogo (Cebu),April,2026
-15 April 2026 - 03:12 AM,17.59,122.20,019,1.8,023  km N 09Â° W of Maconacon (Isabela),April,2026
+15 April 2026 - 03:12 AM,17.58,122.19,023,1.7,022  km N 12Â° W of Maconacon (Isabela),April,2026
 15 April 2026 - 02:58 AM,08.02,126.25,097,1.9,018  km S 84Â° W of Lingig (Surigao Del Sur),April,2026
 15 April 2026 - 02:46 AM,10.96,124.06,006,2.1,013  km S 41Â° E of City Of Bogo (Cebu),April,2026
-15 April 2026 - 02:44 AM,13.24,120.40,005,1.8,021  km S 20Â° W of Paluan (Occidental Mindoro),April,2026
-15 April 2026 - 02:25 AM,14.93,121.94,018,2.3,010  km N 16Â° W of Burdeos (Quezon),April,2026
+15 April 2026 - 02:44 AM,13.26,120.44,002,1.8,018  km S 10Â° W of Paluan (Occidental Mindoro),April,2026
+15 April 2026 - 02:25 AM,14.93,121.96,018,2.4,010  km N 08Â° W of Burdeos (Quezon),April,2026
 15 April 2026 - 02:21 AM,11.20,124.05,030,1.5,019  km N 23Â° E of City Of Bogo (Cebu),April,2026
 15 April 2026 - 02:17 AM,20.13,120.43,002,2.7,139  km N 36Â° W of Dalupiri Island (Calayan) (Cagayan),April,2026
-15 April 2026 - 02:03 AM,06.35,126.45,111,2.2,054  km S 51Â° E of Governor Generoso (Davao Oriental),April,2026
-15 April 2026 - 02:00 AM,07.62,126.60,022,1.7,007  km N 41Â° E of Baganga (Davao Oriental),April,2026
-15 April 2026 - 01:53 AM,19.11,121.29,005,1.8,008  km N 85Â° E of Dalupiri Island (Calayan) (Cagayan),April,2026
-15 April 2026 - 01:52 AM,13.41,120.46,033,1.5,001  km S 21Â° W of Paluan (Occidental Mindoro),April,2026
-15 April 2026 - 01:39 AM,13.33,120.41,028,2.0,011  km S 29Â° W of Paluan (Occidental Mindoro),April,2026
+15 April 2026 - 02:03 AM,06.30,126.39,119,2.3,053  km S 42Â° E of Governor Generoso (Davao Oriental),April,2026
+15 April 2026 - 02:00 AM,07.59,126.68,025,1.8,013  km N 82Â° E of Baganga (Davao Oriental),April,2026
+15 April 2026 - 01:53 AM,19.14,121.36,024,1.9,017  km N 79Â° E of Dalupiri Island (Calayan) (Cagayan),April,2026
+15 April 2026 - 01:52 AM,13.34,120.42,029,1.8,010  km S 32Â° W of Paluan (Occidental Mindoro),April,2026
+15 April 2026 - 01:39 AM,13.30,120.45,023,2.1,013  km S 09Â° W of Paluan (Occidental Mindoro),April,2026
 15 April 2026 - 12:54 AM,19.81,121.29,007,2.0,064  km N 18Â° W of Calayan (Cagayan),April,2026
 15 April 2026 - 12:36 AM,15.87,120.05,030,1.5,016  km N 70Â° E of Infanta (Pangasinan),April,2026
-15 April 2026 - 12:23 AM,09.09,126.50,033,2.2,027  km N 60Â° E of Bayabas (Surigao Del Sur),April,2026
-15 April 2026 - 12:19 AM,12.03,121.83,033,1.5,015  km S 74Â° W of San Jose (Romblon),April,2026
-14 April 2026 - 11:59 PM,15.03,121.97,010,1.8,020  km N 02Â° E of Burdeos (Quezon),April,2026
-14 April 2026 - 11:45 PM,19.63,121.77,018,1.6,020  km N 48Â° W of Babuyan Island (Calayan) (Cagayan),April,2026
-14 April 2026 - 10:39 PM,12.37,125.02,030,2.6,004  km N 13Â° W of Las Navas (Northern Samar),April,2026
-14 April 2026 - 10:33 PM,13.25,120.43,004,2.1,018  km N 83Â° W of Mamburao (Occidental Mindoro),April,2026
+15 April 2026 - 12:23 AM,09.08,126.53,043,2.3,029  km N 66Â° E of Bayabas (Surigao Del Sur),April,2026
+15 April 2026 - 12:19 AM,12.07,121.81,033,1.5,017  km N 86Â° W of San Jose (Romblon),April,2026
+14 April 2026 - 11:59 PM,15.00,121.97,008,1.8,018  km N 01Â° E of Burdeos (Quezon),April,2026
+14 April 2026 - 11:45 PM,19.68,121.86,023,1.7,020  km N 15Â° W of Babuyan Island (Calayan) (Cagayan),April,2026
+14 April 2026 - 10:39 PM,12.29,125.05,022,2.6,005  km S 22Â° E of Las Navas (Northern Samar),April,2026
+14 April 2026 - 10:33 PM,13.24,120.42,004,2.1,019  km N 84Â° W of Mamburao (Occidental Mindoro),April,2026
 14 April 2026 - 10:28 PM,16.90,120.55,028,1.6,002  km N 47Â° E of Alilem (Ilocos Sur),April,2026
-14 April 2026 - 10:22 PM,02.53,120.65,085,4.0,275  km S 31Â° E of Sitangkai (Tawi-tawi),April,2026
+14 April 2026 - 10:21 PM,02.15,120.67,064,4.0,312  km S 27Â° E of Sitangkai (Tawi-tawi),April,2026
 14 April 2026 - 07:51 PM,08.70,125.72,009,3.7,004  km S 65Â° W of City Of Bayugan (Agusan Del Sur),April,2026
-14 April 2026 - 06:29 PM,17.50,120.02,032,1.4,037  km S 75Â° W of Santa Catalina (Ilocos Sur),April,2026
+14 April 2026 - 06:29 PM,17.29,120.35,053,1.7,010  km S 85Â° W of Santiago (Ilocos Sur),April,2026
 14 April 2026 - 06:26 PM,19.79,121.35,023,1.5,060  km N 13Â° W of Calayan (Cagayan),April,2026
-14 April 2026 - 04:59 PM,09.28,126.82,002,2.9,068  km N 60Â° E of Bayabas (Surigao Del Sur),April,2026
+14 April 2026 - 04:59 PM,09.31,126.76,002,2.9,064  km N 54Â° E of Bayabas (Surigao Del Sur),April,2026
 14 April 2026 - 04:42 PM,07.29,126.79,022,1.8,029  km N 73Â° E of Manay (Davao Oriental),April,2026
-14 April 2026 - 03:50 PM,18.45,120.88,005,2.2,003  km S 56Â° W of Adams (Ilocos Norte),April,2026
+14 April 2026 - 03:50 PM,18.44,120.87,008,2.3,004  km S 48Â° W of Adams (Ilocos Norte),April,2026
 14 April 2026 - 03:33 PM,08.43,123.10,018,2.6,009  km S 06Â° E of Manukan (Zamboanga Del Norte),April,2026
-14 April 2026 - 02:59 PM,15.02,122.07,002,2.6,022  km N 29Â° E of Burdeos (Quezon),April,2026
+14 April 2026 - 02:59 PM,15.03,122.07,002,2.7,023  km N 28Â° E of Burdeos (Quezon),April,2026
 14 April 2026 - 02:53 PM,08.45,125.81,033,1.8,003  km East of Talacogon (Agusan Del Sur),April,2026
 14 April 2026 - 01:44 PM,10.92,126.50,027,3.0,086  km S 82Â° E of Guiuan (Eastern Samar),April,2026
 14 April 2026 - 01:37 PM,15.03,122.10,002,3.6,026  km N 33Â° E of Burdeos (Quezon),April,2026
 14 April 2026 - 01:28 PM,13.52,124.71,030,1.9,040  km S 67Â° E of Baras (Catanduanes),April,2026
 14 April 2026 - 01:24 PM,15.01,122.06,003,2.5,021  km N 28Â° E of Burdeos (Quezon),April,2026
 14 April 2026 - 11:55 AM,18.65,120.78,024,2.0,010  km N 06Â° W of Pagudpud (Ilocos Norte),April,2026
-14 April 2026 - 11:39 AM,11.53,122.76,035,1.4,005  km S 52Â° W of Panay (Capiz),April,2026
+14 April 2026 - 11:39 AM,11.46,122.81,026,1.4,003  km S 47Â° W of Pontevedra (Capiz),April,2026
 14 April 2026 - 09:50 AM,09.63,126.15,050,2.2,017  km S 02Â° W of General Luna (Surigao Del Norte),April,2026
 14 April 2026 - 09:38 AM,07.32,126.87,009,2.1,034  km S 89Â° E of Caraga (Davao Oriental),April,2026
 14 April 2026 - 08:59 AM,09.27,126.20,017,1.8,001  km S 22Â° E of Cortes (Surigao Del Sur),April,2026
