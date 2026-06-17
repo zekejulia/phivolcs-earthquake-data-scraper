@@ -47917,35 +47917,244 @@
 01 May 2026 - 12:23 AM,9.95,126.41,3.0,2.6,033  km N 56Â° E of General Luna (Surigao Del Norte),May,2026
 01 May 2026 - 12:20 AM,11.12,123.74,30.0,1.9,006  km S 28Â° E of Bantayan (Cebu),May,2026
 01 May 2026 - 12:07 AM,5.92,126.23,139.0,3.6,066  km S 63Â° E of Don Marcelino (Davao Occidental),May,2026
-16 June 2026 - 02:53 PM,5.7,125.64,20,1.7,031  km N 36Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-16 June 2026 - 02:22 PM,5.41,125.22,34,1.9,022  km S 88Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-16 June 2026 - 02:17 PM,5.63,125.37,22,4.0,021  km N 32Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-16 June 2026 - 02:15 PM,5.42,125.1,31,3.0,035  km N 89Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-16 June 2026 - 01:43 PM,5.28,125.17,5,4.7,031  km S 62Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-16 June 2026 - 01:34 PM,13.31,120.27,7,2.9,024  km S 61Â° W of Paluan (Occidental Mindoro),June,2026
+17 June 2026 - 01:59 PM,5.35,125.22,32,1.7,023  km S 72Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 01:58 PM,5.63,125.39,32,1.4,020  km N 28Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 01:56 PM,5.61,125.37,4,2.6,019  km N 38Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 01:53 PM,5.17,125.35,14,3.4,028  km S 17Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 01:48 PM,5.42,125.13,34,2.1,032  km N 88Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 01:37 PM,5.53,125.31,11,2.7,018  km N 44Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 01:37 PM,17.39,119.32,8,2.8,111  km S 78Â° W of Santa Catalina (Ilocos Sur),June,2026
+17 June 2026 - 01:36 PM,5.42,125.54,3,1.9,010  km S 51Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 01:35 PM,17.37,119.25,24,3.2,120  km S 78Â° W of Santa Catalina (Ilocos Sur),June,2026
+17 June 2026 - 01:25 PM,6.52,126.43,31,3.1,042  km S 69Â° E of Governor Generoso (Davao Oriental),June,2026
+17 June 2026 - 01:24 PM,12.09,121.49,27,2.5,018  km N 18Â° W of Caluya (Antique),June,2026
+17 June 2026 - 01:23 PM,12.04,121.44,33,1.5,017  km N 45Â° W of Caluya (Antique),June,2026
+17 June 2026 - 12:59 PM,5.41,125.29,34,2.0,015  km N 89Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 12:56 PM,5.87,125.32,33,1.7,012  km S 18Â° E of Malapatan (Sarangani),June,2026
+17 June 2026 - 12:37 PM,5.29,125.45,2,2.3,013  km S 14Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 12:29 PM,5.65,125.18,98,2.6,020  km S 09Â° W of Glan (Sarangani),June,2026
+17 June 2026 - 12:26 PM,5.74,125.19,25,2.0,009  km S 11Â° W of Glan (Sarangani),June,2026
+17 June 2026 - 12:21 PM,5.53,125.35,6,2.5,014  km N 66Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 12:15 PM,5.71,125.33,5,2.2,019  km S 46Â° E of Glan (Sarangani),June,2026
+17 June 2026 - 12:12 PM,4.92,125.33,33,2.2,056  km S 11Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 12:11 PM,5.39,125.14,32,1.9,031  km S 86Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 12:06 PM,15.62,121.26,10,1.9,011  km N 61Â° E of Laur (Nueva Ecija),June,2026
+17 June 2026 - 11:45 AM,5.64,125.19,33,1.9,020  km S 03Â° W of Glan (Sarangani),June,2026
+17 June 2026 - 11:21 AM,5.61,125.2,18,2.6,024  km S 01Â° W of Glan (Sarangani),June,2026
+17 June 2026 - 11:18 AM,5.09,125.15,10,3.2,047  km S 40Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 10:51 AM,5.74,125.39,32,2.4,022  km S 67Â° E of Glan (Sarangani),June,2026
+17 June 2026 - 10:44 AM,5.68,125.31,14,2.7,019  km S 36Â° E of Glan (Sarangani),June,2026
+17 June 2026 - 10:43 AM,5.76,125.08,20,1.6,015  km S 37Â° E of Maasim (Sarangani),June,2026
+17 June 2026 - 10:35 AM,5.29,125.27,33,2.1,022  km S 51Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 10:30 AM,8.44,127.05,4,3.0,079  km N 85Â° E of Hinatuan (Surigao Del Sur),June,2026
+17 June 2026 - 10:15 AM,5.39,125.08,6,1.9,038  km S 86Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 10:06 AM,5.67,125.17,32,2.1,018  km S 12Â° W of Glan (Sarangani),June,2026
+17 June 2026 - 09:49 AM,5.13,125.46,21,2.0,032  km S 09Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 09:46 AM,5.68,125.33,4,1.8,021  km S 44Â° E of Glan (Sarangani),June,2026
+17 June 2026 - 09:40 AM,5.06,125.29,11,2.9,041  km S 21Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 09:34 AM,5.8,125.37,3,3.6,018  km S 81Â° E of Glan (Sarangani),June,2026
+17 June 2026 - 09:27 AM,5.91,125.01,23,2.0,006  km N 13Â° E of Maasim (Sarangani),June,2026
+17 June 2026 - 09:29 AM,14.05,120.5,112,2.4,015  km S 78Â° W of Nasugbu (Batangas),June,2026
+17 June 2026 - 09:15 AM,5.74,125.41,29,2.9,025  km S 69Â° E of Glan (Sarangani),June,2026
+17 June 2026 - 09:12 AM,5.41,125.33,29,1.7,010  km N 89Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 09:08 AM,5.46,125.34,28,1.9,011  km N 62Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 09:06 AM,5.47,125.34,28,1.9,012  km N 55Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 08:56 AM,6.44,126.78,66,2.9,077  km S 28Â° E of Tarragona (Davao Oriental),June,2026
+17 June 2026 - 08:48 AM,5.8,124.86,26,3.0,017  km S 67Â° W of Maasim (Sarangani),June,2026
+17 June 2026 - 08:46 AM,5.53,125.39,25,1.9,012  km N 56Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 08:31 AM,5.37,125.13,14,2.0,033  km S 82Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 08:24 AM,5.64,125.19,2,2.8,021  km S 06Â° W of Glan (Sarangani),June,2026
+17 June 2026 - 08:11 AM,5.39,125.25,30,1.6,019  km S 84Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 07:55 AM,5.54,125.0,32,1.7,035  km S 01Â° E of Maasim (Sarangani),June,2026
+17 June 2026 - 07:54 AM,5.38,125.27,32,1.9,018  km S 80Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 07:49 AM,5.53,125.34,31,2.2,016  km N 35Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 07:38 AM,5.57,125.27,7,2.1,024  km N 43Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 07:33 AM,5.64,125.52,34,1.4,020  km N 14Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 07:26 AM,10.0,121.89,8,2.9,047  km S 05Â° W of Anini-y (Antique),June,2026
+17 June 2026 - 07:08 AM,5.43,125.22,33,2.3,022  km N 86Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 07:06 AM,5.44,125.39,33,2.5,004  km N 43Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 06:58 AM,5.64,125.3,7,2.5,023  km S 28Â° E of Glan (Sarangani),June,2026
+17 June 2026 - 06:55 AM,5.49,125.4,32,2.3,009  km N 18Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 06:53 AM,5.63,125.36,28,1.8,021  km N 35Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 06:50 AM,5.52,125.54,8,2.2,009  km N 57Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 06:42 AM,5.45,125.42,32,3.2,004  km N 05Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 06:16 AM,5.55,125.34,29,1.6,017  km N 59Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 06:06 AM,5.68,125.42,26,3.1,023  km N 13Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 05:59 AM,5.41,125.31,33,2.1,012  km S 87Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 05:50 AM,5.28,125.23,42,3.2,026  km S 56Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 05:36 AM,5.3,125.33,32,3.1,016  km S 40Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 05:33 AM,5.67,125.4,33,1.6,023  km N 20Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 05:27 AM,5.3,125.23,32,1.5,025  km S 60Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 05:25 AM,4.92,125.01,2,2.5,071  km S 39Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 05:00 AM,9.35,122.6,50,1.8,008  km S 38Â° W of Basay (Negros Oriental),June,2026
+17 June 2026 - 04:59 AM,5.43,125.4,33,2.2,003  km N 39Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 04:48 AM,5.48,125.16,21,2.2,030  km N 75Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 04:35 AM,5.63,125.35,46,1.5,022  km N 39Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 04:29 AM,18.76,120.77,30,1.4,022  km N 04Â° W of Pagudpud (Ilocos Norte),June,2026
+17 June 2026 - 04:20 AM,5.79,124.95,43,2.5,009  km S 34Â° W of Maasim (Sarangani),June,2026
+17 June 2026 - 04:19 AM,5.94,125.34,18,1.3,006  km S 59Â° E of Malapatan (Sarangani),June,2026
+17 June 2026 - 04:16 AM,5.54,125.31,14,3.2,019  km N 41Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 04:08 AM,5.69,124.75,28,1.5,033  km S 55Â° W of Maasim (Sarangani),June,2026
+17 June 2026 - 04:07 AM,5.49,125.32,30,2.3,014  km N 51Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 04:05 AM,5.58,125.25,10,2.4,027  km N 46Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 04:04 AM,19.13,121.09,31,2.4,012  km N 81Â° W of Dalupiri Island (Calayan) (Cagayan),June,2026
+17 June 2026 - 03:58 AM,5.24,125.29,30,2.3,024  km S 37Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 03:54 AM,5.42,125.31,34,1.5,012  km N 88Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 03:45 AM,5.47,125.4,27,1.5,006  km N 20Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 03:38 AM,5.2,125.16,3,3.2,038  km S 51Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 03:28 AM,5.54,125.37,20,1.9,013  km N 57Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 03:18 AM,17.95,122.29,23,2.0,045  km N 82Â° E of Baggao (Cagayan),June,2026
+17 June 2026 - 03:08 AM,5.51,125.07,2,2.9,037  km S 24Â° W of Glan (Sarangani),June,2026
+17 June 2026 - 02:39 AM,5.31,125.82,2,1.7,042  km S 65Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 02:36 AM,5.25,124.82,18,3.3,069  km S 75Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 02:23 AM,8.49,123.39,15,2.2,005  km S 30Â° E of Polanco (Zamboanga Del Norte),June,2026
+17 June 2026 - 02:23 AM,5.77,124.91,28,2.6,014  km S 45Â° W of Maasim (Sarangani),June,2026
+17 June 2026 - 02:20 AM,12.59,121.83,32,2.0,021  km N 70Â° W of San Andres (Romblon),June,2026
+17 June 2026 - 02:19 AM,5.06,125.1,28,3.0,053  km S 42Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 02:18 AM,5.23,125.08,10,1.6,043  km S 62Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 02:17 AM,5.16,125.05,8,1.5,050  km S 56Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 02:15 AM,6.14,127.59,6,3.8,161  km S 51Â° E of Tarragona (Davao Oriental),June,2026
+17 June 2026 - 02:08 AM,5.54,125.32,20,3.1,018  km N 38Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 02:02 AM,5.25,125.1,24,3.7,039  km S 64Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 01:58 AM,5.72,125.17,22,1.5,012  km S 21Â° W of Glan (Sarangani),June,2026
+17 June 2026 - 01:51 AM,6.11,127.51,11,4.0,156  km S 48Â° E of Tarragona (Davao Oriental),June,2026
+17 June 2026 - 01:50 AM,5.77,125.42,23,2.0,025  km S 76Â° E of Glan (Sarangani),June,2026
+17 June 2026 - 01:45 AM,5.34,125.24,38,2.4,022  km S 70Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 01:27 AM,8.66,122.78,31,2.5,036  km N 47Â° W of Jose Dalman (Zamboanga Del Norte),June,2026
+17 June 2026 - 01:21 AM,5.42,125.37,31,2.5,005  km N 76Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 01:20 AM,5.76,124.82,28,1.6,023  km S 59Â° W of Maasim (Sarangani),June,2026
+17 June 2026 - 01:20 AM,5.37,125.29,33,1.5,016  km S 72Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 01:17 AM,5.6,125.29,29,3.5,024  km N 56Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 01:13 AM,7.97,126.78,31,2.4,040  km N 61Â° E of Cateel (Davao Oriental),June,2026
+17 June 2026 - 01:12 AM,5.6,124.79,20,2.4,037  km S 38Â° W of Maasim (Sarangani),June,2026
+17 June 2026 - 01:11 AM,5.52,125.72,33,1.4,028  km N 80Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 01:10 AM,5.65,125.37,26,1.6,022  km N 29Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 01:05 AM,18.29,121.49,64,2.2,006  km N 85Â° E of Santa Marcela (Apayao),June,2026
+17 June 2026 - 12:51 AM,5.73,125.18,22,2.0,011  km S 12Â° W of Glan (Sarangani),June,2026
+17 June 2026 - 12:47 AM,5.55,125.42,34,1.6,010  km N 33Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 12:33 AM,5.63,125.39,31,1.7,019  km N 29Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 12:30 AM,5.84,125.37,17,1.3,017  km S 31Â° E of Malapatan (Sarangani),June,2026
+17 June 2026 - 12:30 AM,5.6,125.23,11,1.5,024  km S 06Â° E of Glan (Sarangani),June,2026
+17 June 2026 - 12:25 AM,4.63,125.29,26,2.4,087  km S 09Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 12:25 AM,6.0,124.92,19,1.5,017  km N 29Â° W of Maasim (Sarangani),June,2026
+17 June 2026 - 12:15 AM,5.54,125.41,22,1.7,010  km N 42Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 12:09 AM,5.62,125.43,33,2.1,017  km N 16Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 12:08 AM,5.63,125.31,27,1.4,024  km N 46Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+17 June 2026 - 12:04 AM,5.63,125.28,31,2.5,023  km S 22Â° E of Glan (Sarangani),June,2026
+16 June 2026 - 11:58 PM,5.23,124.58,69,1.9,084  km S 03Â° W of Kiamba (Sarangani),June,2026
+16 June 2026 - 11:56 PM,8.21,126.69,16,2.9,036  km N 59Â° E of Lingig (Surigao Del Sur),June,2026
+16 June 2026 - 11:51 PM,9.46,126.08,24,2.5,018  km N 39Â° E of Cantilan (Surigao Del Sur),June,2026
+16 June 2026 - 11:23 PM,5.63,125.35,34,3.7,022  km N 39Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 11:16 PM,5.07,125.2,33,2.7,046  km S 33Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 11:14 PM,7.19,126.69,16,2.1,016  km S 81Â° E of Manay (Davao Oriental),June,2026
+16 June 2026 - 11:09 PM,5.47,125.43,32,1.7,005  km S 87Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 11:08 PM,5.61,125.25,30,1.6,024  km S 12Â° E of Glan (Sarangani),June,2026
+16 June 2026 - 11:06 PM,17.68,122.35,19,1.9,035  km N 20Â° E of Maconacon (Isabela),June,2026
+16 June 2026 - 11:05 PM,5.64,125.31,33,1.8,024  km S 30Â° E of Glan (Sarangani),June,2026
+16 June 2026 - 11:03 PM,15.04,121.2,24,1.4,016  km N 62Â° E of DoÃ±a Remedios Trinidad (Bulacan),June,2026
+16 June 2026 - 10:59 PM,5.52,125.34,29,1.4,015  km N 36Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 10:54 PM,5.61,125.34,34,1.7,021  km N 45Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 10:52 PM,13.75,120.57,94,1.8,012  km S 38Â° W of Calatagan (Batangas),June,2026
+16 June 2026 - 10:39 PM,5.4,124.8,9,2.3,056  km S 23Â° W of Maasim (Sarangani),June,2026
+16 June 2026 - 10:37 PM,5.74,125.22,4,2.8,009  km S 10Â° E of Glan (Sarangani),June,2026
+16 June 2026 - 10:17 PM,5.6,125.19,20,1.9,024  km S 03Â° W of Glan (Sarangani),June,2026
+16 June 2026 - 10:11 PM,6.96,126.56,31,1.8,017  km S 51Â° E of Tarragona (Davao Oriental),June,2026
+16 June 2026 - 10:09 PM,5.46,125.42,74,1.8,005  km N 04Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 10:04 PM,9.64,126.18,29,3.1,016  km S 09Â° E of General Luna (Surigao Del Norte),June,2026
+16 June 2026 - 10:01 PM,13.86,120.59,104,2.0,006  km N 56Â° W of Calatagan (Batangas),June,2026
+16 June 2026 - 09:59 PM,5.19,125.18,8,2.2,037  km S 47Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 09:55 PM,5.65,125.2,26,1.4,019  km S 02Â° W of Glan (Sarangani),June,2026
+16 June 2026 - 09:54 PM,5.37,125.11,33,1.5,035  km S 82Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 09:50 PM,5.63,125.36,31,1.5,021  km N 34Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 09:46 PM,4.71,125.04,25,3.1,088  km S 29Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 09:41 PM,5.61,125.32,6,1.4,022  km N 49Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 09:30 PM,5.84,125.1,30,2.1,012  km N 78Â° W of Glan (Sarangani),June,2026
+16 June 2026 - 09:27 PM,5.7,124.73,28,1.7,035  km S 20Â° E of Kiamba (Sarangani),June,2026
+16 June 2026 - 09:24 PM,5.54,124.88,29,1.6,038  km S 19Â° W of Maasim (Sarangani),June,2026
+16 June 2026 - 09:09 PM,5.65,125.34,32,2.3,024  km N 37Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 09:06 PM,5.36,125.03,3,4.0,044  km S 83Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 09:03 PM,5.64,124.4,38,1.6,046  km S 33Â° W of Kiamba (Sarangani),June,2026
+16 June 2026 - 08:50 PM,10.23,122.2,2,3.2,037  km S 54Â° E of Anini-y (Antique),June,2026
+16 June 2026 - 08:42 PM,5.35,125.32,33,1.5,013  km S 56Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 08:40 PM,5.33,125.42,90,1.6,009  km S 01Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 08:34 PM,5.41,125.31,23,2.2,013  km S 88Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 08:19 PM,11.8,125.44,29,2.0,005  km N 22Â° W of San Julian (Eastern Samar),June,2026
+16 June 2026 - 08:15 PM,5.29,125.25,33,2.3,023  km S 55Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 08:10 PM,5.62,125.17,10,3.1,023  km S 09Â° W of Glan (Sarangani),June,2026
+16 June 2026 - 08:07 PM,4.88,125.22,46,3.6,063  km S 21Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 08:04 PM,5.36,125.13,32,1.4,032  km S 80Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 07:51 PM,5.2,125.38,1,2.3,022  km S 16Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 07:50 PM,5.57,125.46,2,2.8,011  km N 08Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 07:41 PM,5.36,125.27,38,2.7,018  km S 69Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 07:24 PM,4.91,125.2,4,3.1,061  km S 24Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 07:22 PM,5.52,125.1,33,2.0,035  km S 20Â° W of Glan (Sarangani),June,2026
+16 June 2026 - 07:17 PM,8.23,126.72,11,2.8,040  km N 58Â° E of Lingig (Surigao Del Sur),June,2026
+16 June 2026 - 07:11 PM,5.8,125.39,32,1.8,020  km S 82Â° E of Glan (Sarangani),June,2026
+16 June 2026 - 07:09 PM,5.38,125.4,33,1.4,004  km S 39Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 07:04 PM,5.49,125.36,33,2.1,011  km N 41Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 06:53 PM,5.78,126.09,1,2.6,051  km S 74Â° E of Jose Abad Santos (Davao Occidental),June,2026
+16 June 2026 - 06:52 PM,5.61,125.09,31,1.7,026  km S 28Â° W of Glan (Sarangani),June,2026
+16 June 2026 - 06:51 PM,5.4,125.3,30,1.7,013  km S 84Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 06:46 PM,10.25,122.32,1,3.3,039  km S 38Â° W of Nueva Valencia (Guimaras),June,2026
+16 June 2026 - 06:42 PM,5.54,125.36,19,3.2,014  km N 57Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 06:39 PM,5.64,125.51,71,2.1,018  km N 12Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 06:28 PM,5.43,125.32,34,3.1,011  km N 81Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 06:20 PM,5.45,125.4,33,2.2,005  km N 26Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 06:14 PM,5.13,125.49,32,3.2,033  km S 14Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 05:57 PM,5.32,125.26,33,3.0,021  km S 59Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 05:45 PM,4.94,125.41,31,3.3,052  km S 02Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 05:33 PM,5.61,125.37,30,2.1,019  km N 36Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 05:33 PM,13.4,120.2,21,2.1,028  km S 87Â° W of Paluan (Occidental Mindoro),June,2026
+16 June 2026 - 05:32 PM,5.4,125.24,33,1.6,020  km S 85Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 05:26 PM,5.49,125.18,33,3.2,028  km N 73Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 05:21 PM,5.41,125.03,33,1.7,044  km S 90Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 05:07 PM,7.13,126.75,17,2.8,024  km S 68Â° E of Manay (Davao Oriental),June,2026
+16 June 2026 - 04:48 PM,5.64,125.21,32,2.0,020  km S 03Â° E of Glan (Sarangani),June,2026
+16 June 2026 - 04:45 PM,5.76,125.77,33,2.0,045  km N 46Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 04:43 PM,5.35,125.27,31,2.3,018  km S 67Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 04:37 PM,5.38,125.36,25,1.8,008  km S 61Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 04:29 PM,5.55,125.32,30,1.6,019  km N 35Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 04:24 PM,5.33,125.25,32,2.3,021  km S 66Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 03:57 PM,12.08,121.31,19,2.0,028  km S 07Â° W of Bulalacao (Oriental Mindoro),June,2026
+16 June 2026 - 03:52 PM,5.53,125.31,35,2.2,018  km N 45Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 03:49 PM,6.02,124.88,30,2.2,022  km N 35Â° W of Maasim (Sarangani),June,2026
+16 June 2026 - 03:40 PM,7.26,126.85,21,2.3,033  km S 76Â° E of Caraga (Davao Oriental),June,2026
+16 June 2026 - 03:28 PM,5.49,125.41,40,2.4,007  km N 70Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 03:24 PM,5.5,125.26,34,2.0,021  km N 63Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 03:20 PM,5.59,125.27,20,2.3,026  km N 40Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 03:17 PM,5.62,125.26,32,1.8,023  km S 15Â° E of Glan (Sarangani),June,2026
+16 June 2026 - 03:09 PM,5.67,125.22,32,2.4,017  km S 06Â° E of Glan (Sarangani),June,2026
+16 June 2026 - 02:54 PM,8.46,125.59,52,3.7,017  km S 75Â° W of San Luis (Agusan Del Sur),June,2026
+16 June 2026 - 02:53 PM,5.59,125.66,36,1.6,024  km N 59Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 02:22 PM,5.53,125.35,21,1.9,014  km N 64Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 02:17 PM,5.59,125.35,20,4.4,021  km N 23Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 02:15 PM,5.3,125.1,33,3.7,038  km S 70Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 01:44 PM,5.42,125.25,24,4.3,020  km N 87Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 01:34 PM,13.37,120.27,6,3.0,022  km S 77Â° W of Paluan (Occidental Mindoro),June,2026
+16 June 2026 - 01:33 PM,5.17,125.32,27,2.6,029  km S 24Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
 16 June 2026 - 01:27 PM,5.36,125.34,15,2.3,011  km S 55Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-16 June 2026 - 01:22 PM,6.58,126.25,33,2.9,021  km S 68Â° E of Governor Generoso (Davao Oriental),June,2026
+16 June 2026 - 01:22 PM,6.55,126.26,34,3.0,023  km S 61Â° E of Governor Generoso (Davao Oriental),June,2026
 16 June 2026 - 01:21 PM,5.72,125.16,26,1.5,012  km S 25Â° W of Glan (Sarangani),June,2026
-16 June 2026 - 01:08 PM,5.46,124.99,25,2.8,045  km S 01Â° W of Maasim (Sarangani),June,2026
-16 June 2026 - 12:39 PM,6.17,125.59,7,1.7,012  km S 76Â° W of Don Marcelino (Davao Occidental),June,2026
-16 June 2026 - 12:34 PM,5.44,125.35,16,2.6,009  km N 69Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-16 June 2026 - 12:13 PM,5.58,125.3,10,2.4,022  km N 58Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-16 June 2026 - 12:05 PM,5.68,125.3,6,3.5,019  km S 34Â° E of Glan (Sarangani),June,2026
-16 June 2026 - 11:47 AM,5.67,125.35,27,2.6,023  km S 44Â° E of Glan (Sarangani),June,2026
-16 June 2026 - 11:19 AM,5.36,127.66,11,3.9,226  km S 51Â° E of Governor Generoso (Davao Oriental),June,2026
+16 June 2026 - 01:08 PM,5.32,124.9,25,3.0,059  km S 80Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 12:39 PM,6.5,125.61,3,2.1,009  km N 01Â° W of Malita (Davao Occidental),June,2026
+16 June 2026 - 12:34 PM,5.06,125.35,21,3.1,040  km S 12Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 12:13 PM,5.58,125.3,11,2.5,022  km N 36Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 12:05 PM,5.62,125.28,19,3.5,024  km S 20Â° E of Glan (Sarangani),June,2026
+16 June 2026 - 11:47 AM,5.72,125.34,21,2.6,019  km S 52Â° E of Glan (Sarangani),June,2026
+16 June 2026 - 11:18 AM,5.38,127.88,90,3.9,243  km S 41Â° E of Tarragona (Davao Oriental),June,2026
 16 June 2026 - 11:04 AM,5.7,125.28,21,1.7,016  km S 31Â° E of Glan (Sarangani),June,2026
-16 June 2026 - 10:59 AM,5.12,124.89,33,3.3,068  km S 61Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-16 June 2026 - 10:58 AM,16.48,118.96,9,2.8,100  km N 85Â° W of Bolinao (Pangasinan),June,2026
+16 June 2026 - 10:59 AM,4.78,124.94,36,3.2,088  km S 37Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 10:58 AM,16.53,119.2,34,2.8,076  km N 78Â° W of Bolinao (Pangasinan),June,2026
 16 June 2026 - 10:45 AM,5.67,125.54,32,1.7,023  km N 19Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
 16 June 2026 - 10:44 AM,5.43,125.24,27,1.9,020  km N 85Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-16 June 2026 - 10:37 AM,4.86,125.47,8,3.0,061  km S 05Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-16 June 2026 - 10:35 AM,5.38,125.29,20,2.5,015  km S 75Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-16 June 2026 - 10:34 AM,5.53,125.34,28,2.3,016  km N 35Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-16 June 2026 - 10:29 AM,13.27,120.19,6,2.8,034  km S 61Â° W of Paluan (Occidental Mindoro),June,2026
-16 June 2026 - 10:28 AM,6.02,125.19,19,2.1,013  km N 62Â° W of Malapatan (Sarangani),June,2026
+16 June 2026 - 10:37 AM,4.99,125.73,17,3.2,058  km S 36Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 10:35 AM,5.38,125.34,26,2.6,010  km S 71Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 10:34 AM,5.51,125.34,28,2.2,014  km N 41Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 10:29 AM,13.27,120.19,6,3.0,034  km S 62Â° W of Paluan (Occidental Mindoro),June,2026
+16 June 2026 - 10:28 AM,5.58,125.21,23,2.1,027  km S 02Â° E of Glan (Sarangani),June,2026
 16 June 2026 - 10:25 AM,5.73,125.27,33,1.7,012  km S 35Â° E of Glan (Sarangani),June,2026
-16 June 2026 - 10:24 AM,5.75,124.85,33,1.5,021  km S 52Â° W of Maasim (Sarangani),June,2026
-16 June 2026 - 10:21 AM,14.17,120.38,118,1.9,029  km N 69Â° W of Nasugbu (Batangas),June,2026
+16 June 2026 - 10:24 AM,5.85,124.92,27,1.7,008  km S 82Â° W of Maasim (Sarangani),June,2026
+16 June 2026 - 10:21 AM,14.16,120.4,120,1.8,027  km N 69Â° W of Nasugbu (Batangas),June,2026
 16 June 2026 - 10:15 AM,4.54,125.1,40,1.9,103  km S 20Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
 16 June 2026 - 10:06 AM,6.28,126.84,96,2.9,095  km S 64Â° E of Governor Generoso (Davao Oriental),June,2026
 16 June 2026 - 10:03 AM,5.41,125.24,19,2.0,020  km N 89Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
@@ -47966,35 +48175,34 @@
 16 June 2026 - 07:54 AM,5.72,125.29,24,2.6,015  km S 40Â° E of Glan (Sarangani),June,2026
 16 June 2026 - 07:43 AM,4.45,125.77,32,2.6,113  km S 20Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
 16 June 2026 - 07:36 AM,7.36,126.68,17,2.9,013  km N 75Â° E of Caraga (Davao Oriental),June,2026
-16 June 2026 - 07:28 AM,5.42,125.25,27,2.3,019  km N 86Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-16 June 2026 - 07:15 AM,13.68,120.59,89,2.1,018  km S 14Â° W of Calatagan (Batangas),June,2026
-16 June 2026 - 07:10 AM,5.27,125.21,33,3.2,028  km S 55Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 07:28 AM,5.42,125.29,23,2.0,015  km N 88Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 07:15 AM,13.66,120.57,87,2.0,020  km S 18Â° W of Calatagan (Batangas),June,2026
+16 June 2026 - 07:10 AM,5.29,125.26,34,3.3,023  km S 53Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
 16 June 2026 - 06:54 AM,11.02,123.95,32,2.2,005  km S 52Â° W of City Of Bogo (Cebu),June,2026
 16 June 2026 - 06:38 AM,5.67,125.27,12,2.5,018  km S 23Â° E of Glan (Sarangani),June,2026
 16 June 2026 - 06:30 AM,5.32,125.69,2,2.7,029  km S 56Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
 16 June 2026 - 06:29 AM,5.52,125.63,33,2.1,018  km N 73Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
 16 June 2026 - 06:18 AM,10.22,122.2,3,3.3,038  km S 52Â° E of Anini-y (Antique),June,2026
 16 June 2026 - 06:00 AM,5.64,125.31,26,2.9,023  km S 30Â° E of Glan (Sarangani),June,2026
-16 June 2026 - 05:22 AM,5.45,125.36,29,2.6,008  km N 63Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
 16 June 2026 - 05:23 AM,12.28,120.65,8,2.1,039  km S 59Â° W of Rizal (Occidental Mindoro),June,2026
+16 June 2026 - 05:22 AM,5.45,125.36,29,2.6,008  km N 63Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
 16 June 2026 - 05:21 AM,12.33,120.76,10,1.9,027  km S 57Â° W of Rizal (Occidental Mindoro),June,2026
 16 June 2026 - 04:59 AM,5.53,125.41,69,2.2,009  km N 50Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-15 June 2026 - 08:09 AM,5.75,125.5,92,1.3,024  km S 42Â° W of Jose Abad Santos (Davao Occidental),June,2026
 16 June 2026 - 04:54 AM,8.42,126.67,35,1.9,037  km N 81Â° E of Hinatuan (Surigao Del Sur),June,2026
 16 June 2026 - 04:52 AM,12.3,120.76,8,2.2,033  km S 81Â° W of San Jose (Occidental Mindoro),June,2026
 16 June 2026 - 04:40 AM,9.93,126.06,33,2.0,004  km S 76Â° W of San Isidro (Surigao Del Norte),June,2026
 16 June 2026 - 04:30 AM,5.64,125.33,24,2.6,024  km N 41Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-16 June 2026 - 04:23 AM,5.85,125.34,20,2.1,015  km N 78Â° E of Glan (Sarangani),June,2026
-16 June 2026 - 04:16 AM,5.15,125.38,14,4.2,030  km S 08Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 04:23 AM,5.61,125.19,34,2.3,024  km S 05Â° W of Glan (Sarangani),June,2026
+16 June 2026 - 04:16 AM,5.54,125.19,5,4.9,030  km N 59Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
 16 June 2026 - 04:06 AM,10.29,122.3,32,2.6,044  km S 69Â° E of Anini-y (Antique),June,2026
-16 June 2026 - 04:04 AM,10.23,122.25,2,2.4,042  km S 58Â° E of Anini-y (Antique),June,2026
-16 June 2026 - 03:59 AM,20.23,122.12,35,2.4,023  km S 54Â° E of Uyugan (Batanes),June,2026
+16 June 2026 - 04:04 AM,10.22,122.19,2,2.7,037  km S 51Â° E of Anini-y (Antique),June,2026
+16 June 2026 - 03:59 AM,20.23,122.17,33,2.6,027  km S 60Â° E of Uyugan (Batanes),June,2026
 16 June 2026 - 03:56 AM,7.35,126.66,8,2.2,010  km N 79Â° E of Caraga (Davao Oriental),June,2026
-16 June 2026 - 03:26 AM,5.6,125.32,22,2.5,022  km N 50Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 03:26 AM,5.53,125.4,22,3.0,010  km N 51Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
 16 June 2026 - 03:22 AM,10.28,122.39,32,2.3,032  km S 31Â° W of Nueva Valencia (Guimaras),June,2026
-16 June 2026 - 03:15 AM,5.49,125.09,44,2.8,037  km N 77Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-16 June 2026 - 03:13 AM,5.39,125.27,20,2.4,017  km S 80Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-16 June 2026 - 03:04 AM,5.87,125.31,25,2.3,011  km S 13Â° E of Malapatan (Sarangani),June,2026
+16 June 2026 - 03:15 AM,5.49,125.11,35,3.4,036  km N 77Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 03:13 AM,5.38,125.29,30,2.8,015  km S 74Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 03:04 AM,5.72,125.34,23,2.8,019  km S 54Â° E of Glan (Sarangani),June,2026
 16 June 2026 - 03:03 AM,5.61,125.29,31,1.4,025  km N 54Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
 16 June 2026 - 02:41 AM,5.34,125.27,33,2.5,018  km S 62Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
 16 June 2026 - 02:38 AM,4.75,125.49,5,3.4,074  km S 06Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
@@ -48006,33 +48214,33 @@
 16 June 2026 - 01:56 AM,5.88,125.22,2,2.1,007  km N 12Â° E of Glan (Sarangani),June,2026
 16 June 2026 - 01:50 AM,14.45,121.73,13,1.8,024  km N 24Â° W of Cagbalete Island (Mauban) (Quezon),June,2026
 16 June 2026 - 01:38 AM,4.7,125.24,16,4.3,081  km S 15Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-16 June 2026 - 01:31 AM,5.07,125.39,55,2.6,038  km S 05Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-16 June 2026 - 01:30 AM,5.81,124.84,16,1.5,018  km S 70Â° W of Maasim (Sarangani),June,2026
-16 June 2026 - 01:27 AM,18.44,120.9,48,3.4,003  km S 06Â° W of Adams (Ilocos Norte),June,2026
-16 June 2026 - 01:20 AM,4.68,125.2,45,3.1,084  km S 17Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 01:31 AM,5.14,125.41,27,2.3,030  km S 03Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 01:30 AM,5.72,124.84,31,1.7,024  km S 48Â° W of Maasim (Sarangani),June,2026
+16 June 2026 - 01:27 AM,18.42,120.93,50,3.2,005  km S 28Â° E of Adams (Ilocos Norte),June,2026
+16 June 2026 - 01:20 AM,4.71,125.26,19,3.1,080  km S 13Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
 16 June 2026 - 01:17 AM,5.71,125.24,2,2.6,013  km S 18Â° E of Glan (Sarangani),June,2026
 16 June 2026 - 01:01 AM,17.44,119.43,2,2.4,100  km S 80Â° W of Santa Catalina (Ilocos Sur),June,2026
-16 June 2026 - 12:57 AM,16.73,121.01,8,2.4,006  km N 84Â° W of Asipulo (Ifugao),June,2026
-16 June 2026 - 12:55 AM,5.35,125.04,2,1.9,045  km S 80Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-16 June 2026 - 12:54 AM,5.75,125.33,18,2.2,016  km S 62Â° E of Glan (Sarangani),June,2026
-16 June 2026 - 12:49 AM,6.42,123.7,2,2.6,045  km S 75Â° W of Kalamansig (Sultan Kudarat),June,2026
-16 June 2026 - 12:46 AM,5.94,125.6,89,2.0,006  km N 61Â° W of Jose Abad Santos (Davao Occidental),June,2026
+16 June 2026 - 12:57 AM,16.72,120.95,3,2.5,005  km N 18Â° E of Tinoc (Ifugao),June,2026
+16 June 2026 - 12:55 AM,5.31,125.22,27,1.9,025  km S 63Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 12:54 AM,5.53,125.35,24,2.1,015  km N 32Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 12:49 AM,6.22,123.39,27,2.6,082  km S 63Â° W of Kalamansig (Sultan Kudarat),June,2026
+16 June 2026 - 12:46 AM,5.46,125.32,32,2.0,012  km N 63Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
 16 June 2026 - 12:45 AM,6.78,125.62,21,2.0,024  km S 75Â° E of Santa Cruz (Davao Del Sur),June,2026
-16 June 2026 - 12:34 AM,5.39,125.2,63,3.9,024  km S 85Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-16 June 2026 - 12:31 AM,4.67,125.33,39,3.7,083  km S 07Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 12:34 AM,5.38,125.16,33,4.0,030  km S 83Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+16 June 2026 - 12:31 AM,4.71,125.17,22,3.6,082  km S 20Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
 16 June 2026 - 12:30 AM,9.53,126.18,31,1.8,025  km S 66Â° E of Socorro (Surigao Del Norte),June,2026
-16 June 2026 - 12:24 AM,5.5,125.13,33,3.0,034  km N 74Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-16 June 2026 - 12:06 AM,5.56,125.31,27,1.3,021  km N 37Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-15 June 2026 - 11:50 PM,6.46,125.52,15,1.9,011  km N 64Â° W of Malita (Davao Occidental),June,2026
+16 June 2026 - 12:24 AM,5.64,125.16,30,3.0,020  km S 13Â° W of Glan (Sarangani),June,2026
+16 June 2026 - 12:06 AM,5.49,125.32,43,1.5,014  km N 54Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+15 June 2026 - 11:50 PM,5.87,125.22,26,1.8,005  km N 13Â° E of Glan (Sarangani),June,2026
 15 June 2026 - 11:30 PM,5.63,125.23,44,5.5,021  km S 07Â° E of Glan (Sarangani),June,2026
-15 June 2026 - 10:56 PM,5.1,125.34,43,2.7,036  km S 15Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+15 June 2026 - 10:56 PM,5.17,125.31,27,2.8,030  km S 23Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
 15 June 2026 - 10:49 PM,5.37,125.23,13,4.5,022  km S 77Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-15 June 2026 - 10:44 PM,5.49,125.26,24,2.9,019  km N 64Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-15 June 2026 - 10:43 PM,19.11,121.22,28,3.3,002  km N 73Â° E of Dalupiri Island (Calayan) (Cagayan),June,2026
-15 June 2026 - 10:35 PM,5.43,125.33,28,1.9,010  km N 77Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+15 June 2026 - 10:44 PM,5.54,125.28,9,3.1,022  km N 49Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+15 June 2026 - 10:43 PM,19.1,121.25,26,3.1,004  km S 85Â° E of Dalupiri Island (Calayan) (Cagayan),June,2026
+15 June 2026 - 10:35 PM,5.49,125.39,38,1.5,009  km N 23Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
 15 June 2026 - 10:26 PM,4.87,125.13,33,4.3,068  km S 29Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-15 June 2026 - 10:16 PM,12.88,122.87,7,3.4,030  km S 23Â° W of San Pascual (Masbate),June,2026
-15 June 2026 - 10:15 PM,11.13,124.11,4,3.4,017  km N 58Â° E of City Of Bogo (Cebu),June,2026
+15 June 2026 - 10:16 PM,12.84,122.88,10,3.3,034  km S 19Â° W of San Pascual (Masbate),June,2026
+15 June 2026 - 10:15 PM,11.13,124.11,4,3.4,017  km N 59Â° E of City Of Bogo (Cebu),June,2026
 15 June 2026 - 10:10 PM,5.6,125.32,25,2.3,021  km N 49Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
 15 June 2026 - 09:58 PM,6.73,125.16,32,2.9,003  km S 02Â° E of Magsaysay (Davao Del Sur),June,2026
 15 June 2026 - 09:55 PM,5.62,125.32,26,2.2,023  km N 48Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
@@ -48043,31 +48251,31 @@
 15 June 2026 - 09:26 PM,5.25,125.27,40,3.2,025  km S 45Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
 15 June 2026 - 09:19 PM,12.86,120.86,33,1.3,008  km N 79Â° E of Sablayan (Occidental Mindoro),June,2026
 15 June 2026 - 09:17 PM,5.64,125.3,25,2.7,023  km S 28Â° E of Glan (Sarangani),June,2026
-15 June 2026 - 09:10 PM,5.37,125.22,31,2.5,023  km S 77Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-15 June 2026 - 08:58 PM,10.22,122.34,27,2.4,040  km S 32Â° W of Nueva Valencia (Guimaras),June,2026
-15 June 2026 - 08:46 PM,6.93,125.79,59,1.8,018  km S 26Â° E of Island Garden City Of Samal (Davao Del Norte),June,2026
+15 June 2026 - 09:10 PM,5.4,125.26,41,2.7,018  km S 86Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+15 June 2026 - 08:58 PM,10.2,122.17,3,2.6,037  km S 46Â° E of Anini-y (Antique),June,2026
+15 June 2026 - 08:46 PM,5.28,125.2,29,1.6,029  km S 60Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
 15 June 2026 - 08:43 PM,13.63,120.64,113,1.9,022  km N 26Â° W of Abra De Ilog (Occidental Mindoro),June,2026
 15 June 2026 - 08:26 PM,5.46,125.75,10,2.7,031  km S 88Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-15 June 2026 - 08:24 PM,5.56,125.35,33,1.9,017  km N 53Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-15 June 2026 - 08:13 PM,14.75,124.08,21,2.9,079  km N 07Â° W of Pandan (Catanduanes),June,2026
-15 June 2026 - 08:13 PM,5.33,125.39,28,2.0,010  km S 21Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-15 June 2026 - 08:09 PM,5.11,125.42,95,2.5,033  km S 01Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-15 June 2026 - 07:59 PM,5.46,125.3,28,3.2,014  km N 67Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-15 June 2026 - 07:52 PM,4.95,125.21,39,3.0,057  km S 24Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-15 June 2026 - 07:50 PM,5.42,125.38,33,2.4,004  km N 84Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+15 June 2026 - 08:24 PM,5.53,125.35,33,1.4,016  km N 32Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+15 June 2026 - 08:13 PM,14.43,123.88,1,3.1,054  km N 37Â° W of Pandan (Catanduanes),June,2026
+15 June 2026 - 08:12 PM,5.24,125.4,38,2.2,019  km S 08Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+15 June 2026 - 08:09 PM,4.98,125.44,55,2.7,048  km S 02Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+15 June 2026 - 07:59 PM,5.63,125.28,30,3.2,023  km S 22Â° E of Glan (Sarangani),June,2026
+15 June 2026 - 07:52 PM,5.03,125.35,14,3.0,043  km S 11Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+15 June 2026 - 07:50 PM,5.48,125.3,20,2.2,016  km N 60Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
 15 June 2026 - 07:49 PM,5.45,125.29,25,1.9,015  km N 76Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-15 June 2026 - 07:43 PM,5.8,125.23,22,2.9,003  km S 50Â° E of Glan (Sarangani),June,2026
-15 June 2026 - 07:31 PM,5.51,125.24,7,2.5,023  km N 61Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+15 June 2026 - 07:43 PM,5.62,125.07,2,3.0,027  km S 32Â° W of Glan (Sarangani),June,2026
+15 June 2026 - 07:31 PM,5.65,125.44,26,2.4,020  km N 10Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
 15 June 2026 - 07:09 PM,4.93,125.24,7,1.8,057  km S 21Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-15 June 2026 - 07:07 PM,15.63,120.02,24,2.0,010  km N 88Â° E of Candelaria (Zambales),June,2026
+15 June 2026 - 07:07 PM,15.63,119.92,41,1.9,002  km S 86Â° W of Candelaria (Zambales),June,2026
 15 June 2026 - 07:03 PM,10.91,124.85,32,1.8,009  km S 35Â° W of Burauen (Leyte),June,2026
-15 June 2026 - 06:58 PM,5.61,125.36,31,1.9,020  km N 39Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-15 June 2026 - 06:54 PM,5.25,125.21,33,1.6,029  km S 52Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+15 June 2026 - 06:58 PM,5.61,125.34,30,2.1,021  km N 43Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+15 June 2026 - 06:54 PM,5.29,125.27,32,1.9,021  km S 50Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
 15 June 2026 - 06:52 PM,17.96,119.49,32,1.8,101  km N 66Â° W of Santa Catalina (Ilocos Sur),June,2026
-15 June 2026 - 06:24 PM,4.85,124.94,6,3.6,082  km S 40Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+15 June 2026 - 06:24 PM,4.88,125.11,5,4.1,068  km S 31Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
 15 June 2026 - 05:57 PM,5.54,125.48,30,2.4,008  km N 08Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
 15 June 2026 - 05:52 PM,6.02,125.85,150,2.5,026  km S 41Â° E of Don Marcelino (Davao Occidental),June,2026
-15 June 2026 - 05:18 PM,6.13,126.95,94,6.2,113  km S 59Â° E of Governor Generoso (Davao Oriental),June,2026
+15 June 2026 - 05:18 PM,6.13,126.93,112,6.2,111  km S 58Â° E of Governor Generoso (Davao Oriental),June,2026
 15 June 2026 - 05:05 PM,5.58,124.74,11,2.5,042  km S 43Â° W of Maasim (Sarangani),June,2026
 15 June 2026 - 05:01 PM,13.68,120.66,103,1.8,017  km S 09Â° E of Calatagan (Batangas),June,2026
 15 June 2026 - 04:54 PM,5.52,125.13,24,2.8,034  km N 69Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
@@ -48082,7 +48290,7 @@
 15 June 2026 - 03:33 PM,5.66,125.25,33,2.2,019  km S 16Â° E of Glan (Sarangani),June,2026
 15 June 2026 - 03:31 PM,5.64,125.4,30,2.0,020  km N 23Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
 15 June 2026 - 03:14 PM,5.22,124.95,6,2.1,056  km S 68Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
-15 June 2026 - 03:09 PM,5.61,125.31,28,1.6,023  km N 50Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
+15 June 2026 - 03:09 PM,5.58,125.22,31,1.6,031  km N 67Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
 15 June 2026 - 03:03 PM,5.54,125.29,33,1.5,021  km N 45Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
 15 June 2026 - 03:00 PM,5.46,124.82,30,2.6,048  km S 24Â° W of Maasim (Sarangani),June,2026
 15 June 2026 - 02:46 PM,5.59,125.34,24,1.5,019  km N 47Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),June,2026
@@ -48209,12 +48417,12 @@
 15 June 2026 - 12:16 AM,15.18,119.85,34,1.9,021  km S 40Â° W of Iba (Zambales),June,2026
 15 June 2026 - 12:17 AM,10.23,122.19,2,2.5,036  km S 52Â° E of Anini-y (Antique),June,2026
 15 June 2026 - 12:08 AM,7.61,124.85,8,2.3,006  km N 82Â° W of Kadingilan (Bukidnon),June,2026
-15 June 2026 - 12:01 AM,10.18,122.2,2,4.3,040  km S 47Â° E of Anini-y (Antique),June,2026
+15 June 2026 - 12:01 AM,10.18,122.2,2,4.2,040  km S 47Â° E of Anini-y (Antique),June,2026
 15 June 2026 - 12:00 AM,10.26,122.21,3,2.8,036  km S 58Â° E of Anini-y (Antique),June,2026
 14 June 2026 - 11:58 PM,8.61,126.79,8,2.2,057  km N 61Â° E of Hinatuan (Surigao Del Sur),June,2026
 14 June 2026 - 11:51 PM,5.51,125.17,1,3.1,030  km N 69Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
 14 June 2026 - 11:44 PM,13.26,124.6,6,4.1,050  km N 61Â° E of Prieto Diaz (Sorsogon),June,2026
-14 June 2026 - 11:34 PM,10.18,122.19,3,4.9,040  km S 46Â° E of Anini-y (Antique),June,2026
+14 June 2026 - 11:34 PM,10.2,122.2,3,4.8,039  km S 49Â° E of Anini-y (Antique),June,2026
 14 June 2026 - 11:26 PM,19.07,121.14,11,2.7,008  km S 57Â° W of Dalupiri Island (Calayan) (Cagayan),June,2026
 14 June 2026 - 11:22 PM,10.2,122.21,4,4.2,040  km S 50Â° E of Anini-y (Antique),June,2026
 14 June 2026 - 10:58 PM,17.22,119.83,9,2.5,065  km N 85Â° W of City Of Candon (Ilocos Sur),June,2026
@@ -48223,7 +48431,7 @@
 14 June 2026 - 10:38 PM,8.54,126.65,21,2.1,040  km N 61Â° E of Hinatuan (Surigao Del Sur),June,2026
 14 June 2026 - 10:31 PM,10.16,122.19,2,2.5,041  km S 44Â° E of Anini-y (Antique),June,2026
 14 June 2026 - 10:14 PM,8.56,126.69,4,2.3,044  km N 61Â° E of Hinatuan (Surigao Del Sur),June,2026
-14 June 2026 - 10:08 PM,8.6,126.78,4,5.1,055  km N 62Â° E of Hinatuan (Surigao Del Sur),June,2026
+14 June 2026 - 10:08 PM,8.62,126.71,8,4.7,050  km N 56Â° E of Hinatuan (Surigao Del Sur),June,2026
 14 June 2026 - 10:01 PM,4.56,125.22,2,4.4,097  km S 14Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),June,2026
 14 June 2026 - 09:57 PM,12.87,124.37,6,2.3,021  km N 04Â° E of Biri (Northern Samar),June,2026
 14 June 2026 - 09:51 PM,10.17,122.17,2,2.7,039  km S 43Â° E of Anini-y (Antique),June,2026
