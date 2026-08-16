@@ -12771,68 +12771,137 @@
 01 June 2026 - 01:11 AM,6.2,126.99,52,2.6,111  km S 32Â° E of Tarragona (Davao Oriental),June,2026
 01 June 2026 - 12:54 AM,4.82,127.77,114,3.5,265  km S 63Â° E of Jose Abad Santos (Davao Occidental),June,2026
 01 June 2026 - 12:41 AM,17.68,120.72,4,3.4,005  km N 52Â° W of San Juan (Abra),June,2026
-15 August 2026 - 10:11 AM,11.05,124.16,006,2.5,020  km N 89Â° E of City Of Bogo (Cebu),August,2026
-15 August 2026 - 09:40 AM,8.26,125.96,016,2.9,010  km N 26Â° W of Bunawan (Agusan Del Sur),August,2026
+16 August 2026 - 10:23 AM,5.9,125.32,032,2.2,008  km S 21Â° E of Malapatan (Sarangani),August,2026
+16 August 2026 - 10:09 AM,8.08,126.09,030,1.2,005  km N 28Â° E of Trento (Agusan Del Sur),August,2026
+16 August 2026 - 10:01 AM,13.68,120.7,159,2.0,018  km S 23Â° E of Calatagan (Batangas),August,2026
+16 August 2026 - 09:37 AM,17.68,120.54,004,2.6,011  km S 50Â° E of San Juan (Ilocos Sur),August,2026
+16 August 2026 - 09:34 AM,10.94,123.93,018,2.2,013  km S 27Â° W of City Of Bogo (Cebu),August,2026
+16 August 2026 - 09:30 AM,14.19,122.29,002,3.3,011  km N 85Â° W of Santa Elena (Camarines Norte),August,2026
+16 August 2026 - 09:00 AM,6.06,126.21,019,3.7,060  km S 75Â° E of Don Marcelino (Davao Occidental),August,2026
+16 August 2026 - 08:31 AM,10.3,126.02,025,1.4,031  km N 03Â° W of Santa Monica (Surigao Del Norte),August,2026
+16 August 2026 - 06:32 AM,7.14,126.3,032,2.1,019  km N 57Â° W of Tarragona (Davao Oriental),August,2026
+16 August 2026 - 06:16 AM,4.99,125.31,008,3.0,048  km S 15Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+16 August 2026 - 06:10 AM,5.06,126.11,081,4.5,084  km S 57Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+16 August 2026 - 05:18 AM,5.43,125.42,030,2.6,002  km N 16Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+16 August 2026 - 04:59 AM,11.73,125.65,023,2.0,022  km S 82Â° E of San Julian (Eastern Samar),August,2026
+16 August 2026 - 04:58 AM,5.82,125.39,021,2.0,020  km N 89Â° E of Glan (Sarangani),August,2026
+16 August 2026 - 04:57 AM,5.44,125.21,021,2.2,024  km N 83Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+16 August 2026 - 04:53 AM,5.28,125.24,033,1.5,025  km S 53Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+16 August 2026 - 04:52 AM,13.57,121.3,007,2.4,013  km S 49Â° E of Lobo (Batangas),August,2026
+16 August 2026 - 04:51 AM,7.08,125.39,012,2.5,027  km N 06Â° W of Santa Cruz (Davao Del Sur),August,2026
+16 August 2026 - 04:47 AM,11.71,125.52,014,2.4,009  km S 55Â° E of San Julian (Eastern Samar),August,2026
+16 August 2026 - 04:41 AM,6.29,127.29,148,2.7,125  km S 48Â° E of Tarragona (Davao Oriental),August,2026
+16 August 2026 - 04:32 AM,6.73,126.05,026,1.7,008  km N 18Â° W of Governor Generoso (Davao Oriental),August,2026
+16 August 2026 - 04:30 AM,8.93,126.46,029,2.6,018  km N 87Â° E of Cagwait (Surigao Del Sur),August,2026
+16 August 2026 - 04:21 AM,6.48,126.82,099,3.3,075  km S 33Â° E of Tarragona (Davao Oriental),August,2026
+16 August 2026 - 04:11 AM,5.46,125.29,019,2.5,015  km N 71Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+16 August 2026 - 04:02 AM,9.9,126.11,034,1.4,004  km N 14Â° E of Pilar (Surigao Del Norte),August,2026
+16 August 2026 - 04:01 AM,9.59,123.73,034,2.3,002  km N 77Â° W of Panglao (Bohol),August,2026
+16 August 2026 - 03:43 AM,17.74,120.48,003,2.3,002  km S 81Â° E of San Juan (Ilocos Sur),August,2026
+16 August 2026 - 03:41 AM,13.39,120.26,034,1.8,022  km S 83Â° W of Paluan (Occidental Mindoro),August,2026
+16 August 2026 - 03:37 AM,13.38,120.24,034,2.5,025  km S 82Â° W of Paluan (Occidental Mindoro),August,2026
+16 August 2026 - 03:35 AM,17.65,120.49,024,1.9,009  km S 59Â° E of Magsingal (Ilocos Sur),August,2026
+16 August 2026 - 03:16 AM,4.84,125.46,106,2.5,063  km S 04Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+16 August 2026 - 03:02 AM,5.61,125.1,025,2.3,027  km S 27Â° W of Glan (Sarangani),August,2026
+16 August 2026 - 02:53 AM,17.72,120.49,004,2.5,005  km S 49Â° E of San Juan (Ilocos Sur),August,2026
+16 August 2026 - 02:41 AM,9.82,125.59,010,1.9,011  km N 71Â° E of City Of Surigao (Surigao Del Norte),August,2026
+16 August 2026 - 02:05 AM,6.99,126.05,028,2.7,005  km N 60Â° E of Banaybanay (Davao Oriental),August,2026
+16 August 2026 - 02:01 AM,5.57,125.32,002,2.8,020  km N 32Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+16 August 2026 - 01:59 AM,5.66,126.52,030,2.2,101  km S 74Â° E of Jose Abad Santos (Davao Occidental),August,2026
+16 August 2026 - 01:17 AM,5.27,126.09,034,2.0,072  km S 72Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+16 August 2026 - 01:15 AM,17.58,120.49,006,2.6,005  km N 32Â° W of San Quintin (Abra),August,2026
+16 August 2026 - 01:13 AM,5.78,125.3,020,2.2,012  km S 69Â° E of Glan (Sarangani),August,2026
+16 August 2026 - 12:08 AM,8.5,125.81,026,1.6,007  km N 25Â° E of Talacogon (Agusan Del Sur),August,2026
+15 August 2026 - 11:55 PM,5.38,125.2,025,2.0,025  km S 83Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+15 August 2026 - 11:25 PM,17.63,120.42,030,1.7,002  km S 39Â° E of Santo Domingo (Ilocos Sur),August,2026
+15 August 2026 - 11:16 PM,6.1,125.72,033,2.1,011  km S 13Â° E of Don Marcelino (Davao Occidental),August,2026
+15 August 2026 - 11:12 PM,15.53,120.02,033,1.4,007  km N 89Â° E of Masinloc (Zambales),August,2026
+15 August 2026 - 11:07 PM,5.23,125.24,032,2.4,028  km S 44Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+15 August 2026 - 10:29 PM,5.4,125.23,030,1.3,021  km S 85Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+15 August 2026 - 10:01 PM,11.13,124.23,026,2.2,019  km N 63Â° W of Palompon (Leyte),August,2026
+15 August 2026 - 09:21 PM,10.64,125.07,010,2.4,013  km S 30Â° E of Abuyog (Leyte),August,2026
+15 August 2026 - 09:10 PM,5.81,124.91,027,2.0,011  km S 58Â° W of Maasim (Sarangani),August,2026
+15 August 2026 - 08:58 PM,6.57,126.44,033,3.1,042  km S 78Â° E of Governor Generoso (Davao Oriental),August,2026
+15 August 2026 - 08:29 PM,5.69,125.19,027,1.8,015  km S 07Â° W of Glan (Sarangani),August,2026
+15 August 2026 - 08:13 PM,5.34,125.29,019,2.5,016  km S 59Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+15 August 2026 - 06:57 PM,5.85,125.27,027,2.0,007  km N 69Â° E of Glan (Sarangani),August,2026
+15 August 2026 - 06:34 PM,18.19,122.08,016,1.9,012  km S 46Â° E of Gonzaga (Cagayan),August,2026
+15 August 2026 - 04:43 PM,5.79,125.43,023,1.4,025  km S 81Â° E of Glan (Sarangani),August,2026
+15 August 2026 - 04:12 PM,8.41,123.35,023,1.5,013  km S 30Â° E of Katipunan (Zamboanga Del Norte),August,2026
+15 August 2026 - 03:49 PM,5.65,125.13,017,1.5,021  km S 23Â° W of Glan (Sarangani),August,2026
+15 August 2026 - 03:44 PM,13.15,120.43,032,1.4,020  km S 63Â° W of Mamburao (Occidental Mindoro),August,2026
+15 August 2026 - 01:44 PM,5.06,125.38,025,2.4,039  km S 07Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+15 August 2026 - 01:22 PM,9.15,126.37,033,2.5,021  km N 47Â° E of Tago (Surigao Del Sur),August,2026
+15 August 2026 - 12:56 PM,5.61,125.33,027,3.3,022  km N 45Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+15 August 2026 - 11:42 AM,13.22,120.83,028,2.1,019  km N 40Â° E of Santa Cruz (Occidental Mindoro),August,2026
+15 August 2026 - 11:38 AM,9.58,126.13,033,1.2,019  km S 76Â° E of Socorro (Surigao Del Norte),August,2026
+15 August 2026 - 11:29 AM,7.46,123.43,021,1.9,002  km S 74Â° E of Tabina (Zamboanga Del Sur),August,2026
+15 August 2026 - 11:15 AM,13.35,120.86,006,3.0,018  km S 54Â° E of Abra De Ilog (Occidental Mindoro),August,2026
+15 August 2026 - 10:57 AM,5.24,125.23,021,3.9,028  km S 49Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+15 August 2026 - 10:40 AM,5.56,125.1,021,1.5,031  km S 22Â° W of Glan (Sarangani),August,2026
+15 August 2026 - 10:28 AM,14.07,120.42,118,1.9,023  km S 89Â° W of Nasugbu (Batangas),August,2026
+15 August 2026 - 10:11 AM,11.04,124.07,002,2.5,011  km S 85Â° E of City Of Bogo (Cebu),August,2026
+15 August 2026 - 09:40 AM,8.31,125.98,021,2.7,015  km N 07Â° W of Bunawan (Agusan Del Sur),August,2026
 15 August 2026 - 09:10 AM,7.42,126.12,034,1.4,011  km N 02Â° W of Maragusan (Davao De Oro),August,2026
-15 August 2026 - 09:09 AM,7.37,126.2,033,1.6,010  km N 55Â° E of Maragusan (Davao De Oro),August,2026
-15 August 2026 - 07:38 AM,4.68,125.19,033,3.8,085  km S 17Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+15 August 2026 - 09:09 AM,7.39,126.26,002,2.0,017  km N 64Â° E of Maragusan (Davao De Oro),August,2026
+15 August 2026 - 07:38 AM,4.87,125.11,015,3.8,070  km S 30Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
 15 August 2026 - 06:28 AM,17.65,120.48,004,2.3,007  km S 58Â° E of Magsingal (Ilocos Sur),August,2026
 15 August 2026 - 06:23 AM,17.67,120.42,037,2.0,002  km S 10Â° W of Magsingal (Ilocos Sur),August,2026
-15 August 2026 - 05:57 AM,17.69,120.49,026,3.2,007  km N 81Â° E of Magsingal (Ilocos Sur),August,2026
+15 August 2026 - 05:57 AM,17.86,120.36,001,3.6,010  km S 87Â° W of Sinait (Ilocos Sur),August,2026
 15 August 2026 - 05:38 AM,7.07,126.67,141,2.2,021  km S 45Â° E of Manay (Davao Oriental),August,2026
-15 August 2026 - 05:37 AM,14.83,122.55,010,2.2,027  km N 58Â° E of Jomalig (Quezon),August,2026
+15 August 2026 - 05:37 AM,14.97,122.61,002,2.6,043  km N 46Â° E of Jomalig (Quezon),August,2026
 15 August 2026 - 05:28 AM,5.55,125.19,025,1.8,030  km N 59Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
 15 August 2026 - 05:14 AM,5.36,125.22,028,1.8,023  km S 75Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
 15 August 2026 - 05:02 AM,5.45,126.38,051,2.6,096  km S 58Â° E of Jose Abad Santos (Davao Occidental),August,2026
-15 August 2026 - 04:30 AM,12.13,124.01,005,2.4,009  km S 81Â° E of Palanas (Masbate),August,2026
+15 August 2026 - 04:30 AM,12.1,123.92,002,2.4,005  km S 02Â° W of Palanas (Masbate),August,2026
 15 August 2026 - 04:30 AM,16.21,119.48,010,2.3,036  km N 73Â° W of Agno (Pangasinan),August,2026
 15 August 2026 - 04:26 AM,16.03,120.18,028,1.8,004  km N 81Â° E of Labrador (Pangasinan),August,2026
-15 August 2026 - 03:42 AM,17.44,120.36,018,2.5,009  km S 54Â° W of Santa (Ilocos Sur),August,2026
+15 August 2026 - 03:42 AM,17.44,120.31,024,2.5,014  km S 70Â° W of Santa (Ilocos Sur),August,2026
 15 August 2026 - 03:40 AM,5.37,125.32,012,2.0,013  km S 68Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
 15 August 2026 - 03:04 AM,15.83,119.94,033,1.6,004  km N 77Â° E of Infanta (Pangasinan),August,2026
-15 August 2026 - 02:56 AM,3.58,128.28,014,3.6,376  km S 56Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+15 August 2026 - 02:56 AM,3.04,127.82,013,3.8,374  km S 45Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
 15 August 2026 - 02:55 AM,8.8,126.02,034,1.5,017  km S 06Â° W of San Miguel (Surigao Del Sur),August,2026
 15 August 2026 - 02:54 AM,5.77,125.26,018,2.1,009  km S 51Â° E of Glan (Sarangani),August,2026
 15 August 2026 - 02:51 AM,4.94,125.45,037,2.3,052  km S 03Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
 15 August 2026 - 02:39 AM,5.4,125.41,020,2.2,002  km S 54Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
-15 August 2026 - 02:32 AM,16.41,122.01,003,2.0,019  km N 40Â° W of Casiguran (Aurora),August,2026
-15 August 2026 - 02:23 AM,16.45,119.77,024,3.1,015  km N 63Â° W of Bolinao (Pangasinan),August,2026
-15 August 2026 - 02:03 AM,3.12,127.94,004,4.7,377  km S 48Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
-15 August 2026 - 01:50 AM,10.39,126.33,006,2.0,050  km N 34Â° E of Burgos (Surigao Del Norte),August,2026
+15 August 2026 - 02:32 AM,16.42,121.96,003,2.0,023  km N 48Â° W of Casiguran (Aurora),August,2026
+15 August 2026 - 02:23 AM,16.46,119.81,020,3.1,011  km N 49Â° W of Bolinao (Pangasinan),August,2026
+15 August 2026 - 02:03 AM,3.65,128.08,015,4.7,353  km S 55Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+15 August 2026 - 01:50 AM,10.38,126.29,013,2.2,046  km N 30Â° E of Burgos (Surigao Del Norte),August,2026
 15 August 2026 - 01:31 AM,5.98,125.27,028,1.9,002  km N 68Â° W of Malapatan (Sarangani),August,2026
 15 August 2026 - 01:22 AM,5.83,126.03,082,2.4,044  km S 78Â° E of Jose Abad Santos (Davao Occidental),August,2026
-15 August 2026 - 01:10 AM,12.13,123.99,005,2.3,007  km S 77Â° E of Palanas (Masbate),August,2026
-15 August 2026 - 01:07 AM,8.82,126.42,032,1.6,014  km N 81Â° E of Marihatag (Surigao Del Sur),August,2026
+15 August 2026 - 01:10 AM,12.1,123.94,002,2.3,005  km S 19Â° E of Palanas (Masbate),August,2026
+15 August 2026 - 01:07 AM,8.81,126.36,028,1.8,007  km N 79Â° E of Marihatag (Surigao Del Sur),August,2026
 15 August 2026 - 12:37 AM,8.56,125.78,013,2.4,008  km N 31Â° E of San Luis (Agusan Del Sur),August,2026
 15 August 2026 - 12:37 AM,7.93,126.4,024,1.8,007  km N 23Â° E of Boston (Davao Oriental),August,2026
 15 August 2026 - 12:16 AM,5.34,125.25,015,2.1,020  km S 67Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
-15 August 2026 - 12:01 AM,17.23,121.17,017,2.5,005  km S 33Â° E of Tinglayan (Kalinga),August,2026
-14 August 2026 - 11:57 PM,5.42,125.22,013,1.8,022  km N 89Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+15 August 2026 - 12:01 AM,17.26,121.21,008,2.6,003  km S 53Â° W of Tanudan (Kalinga),August,2026
+14 August 2026 - 11:57 PM,5.12,125.57,105,2.0,036  km S 27Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
 14 August 2026 - 11:21 PM,13.28,120.45,028,1.3,015  km S 04Â° W of Paluan (Occidental Mindoro),August,2026
 14 August 2026 - 11:18 PM,6.83,124.5,033,1.4,005  km S 87Â° E of Ampatuan (Maguindanao Del Sur),August,2026
-14 August 2026 - 11:10 PM,10.34,126.34,006,1.5,047  km N 39Â° E of Burgos (Surigao Del Norte),August,2026
-14 August 2026 - 10:31 PM,7.86,123.46,026,1.5,005  km N 39Â° E of City Of Pagadian (Zamboanga Del Sur),August,2026
+14 August 2026 - 11:10 PM,10.27,126.35,005,2.5,041  km N 48Â° E of Burgos (Surigao Del Norte),August,2026
+14 August 2026 - 10:31 PM,7.86,123.41,021,1.6,004  km N 36Â° W of City Of Pagadian (Zamboanga Del Sur),August,2026
 14 August 2026 - 10:27 PM,6.87,124.63,011,2.2,003  km S 82Â° E of Sultan Sa Barongis (Maguindanao Del Sur),August,2026
 14 August 2026 - 10:17 PM,5.63,125.43,024,2.0,018  km N 16Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),August,2026
 14 August 2026 - 09:37 PM,5.7,125.27,016,2.1,015  km S 29Â° E of Glan (Sarangani),August,2026
-14 August 2026 - 09:35 PM,5.95,125.39,023,2.0,012  km S 80Â° E of Malapatan (Sarangani),August,2026
+14 August 2026 - 09:35 PM,5.72,125.39,025,2.1,024  km S 62Â° E of Glan (Sarangani),August,2026
 14 August 2026 - 09:31 PM,6.58,125.64,026,2.0,019  km N 11Â° E of Malita (Davao Occidental),August,2026
 14 August 2026 - 09:01 PM,5.51,125.01,020,2.0,040  km S 03Â° E of Maasim (Sarangani),August,2026
-14 August 2026 - 08:49 PM,8.77,126.55,005,1.7,028  km S 82Â° E of Marihatag (Surigao Del Sur),August,2026
+14 August 2026 - 08:49 PM,9.03,126.52,033,1.7,027  km N 75Â° E of Bayabas (Surigao Del Sur),August,2026
 14 August 2026 - 08:26 PM,5.2,125.27,018,2.0,029  km S 35Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
-14 August 2026 - 07:56 PM,4.6,125.45,032,2.9,090  km S 02Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
-14 August 2026 - 07:08 PM,14.78,119.57,029,2.4,058  km S 71Â° W of San Antonio (Zambales),August,2026
-14 August 2026 - 07:00 PM,5.3,125.37,020,2.2,014  km S 23Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
-14 August 2026 - 06:13 PM,5.38,125.32,066,2.8,011  km S 72Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+14 August 2026 - 07:56 PM,4.56,125.81,006,2.9,104  km S 25Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+14 August 2026 - 07:08 PM,14.7,119.27,028,2.4,092  km S 73Â° W of San Antonio (Zambales),August,2026
+14 August 2026 - 07:00 PM,4.93,125.35,036,2.5,054  km S 08Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+14 August 2026 - 06:13 PM,5.28,125.29,033,2.9,021  km S 44Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
 14 August 2026 - 05:43 PM,4.45,127.99,198,3.2,302  km S 68Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),August,2026
 14 August 2026 - 03:43 PM,6.12,126.37,149,3.6,067  km S 29Â° E of Governor Generoso (Davao Oriental),August,2026
-14 August 2026 - 03:32 PM,8.59,126.04,016,2.2,008  km S 54Â° W of Lianga (Surigao Del Sur),August,2026
-14 August 2026 - 02:35 PM,9.49,126.18,032,3.7,024  km N 03Â° W of Cortes (Surigao Del Sur),August,2026
-14 August 2026 - 02:14 PM,5.64,125.32,020,2.5,024  km S 32Â° E of Glan (Sarangani),August,2026
+14 August 2026 - 03:32 PM,8.69,125.98,011,2.3,014  km N 63Â° W of Lianga (Surigao Del Sur),August,2026
+14 August 2026 - 02:35 PM,9.52,126.23,029,3.7,027  km N 08Â° E of Cortes (Surigao Del Sur),August,2026
+14 August 2026 - 02:14 PM,5.76,125.31,012,2.5,014  km S 62Â° E of Glan (Sarangani),August,2026
 14 August 2026 - 01:45 PM,10.38,126.39,002,2.3,053  km N 41Â° E of Burgos (Surigao Del Norte),August,2026
 14 August 2026 - 01:33 PM,10.13,125.96,012,1.8,014  km N 35Â° W of Santa Monica (Surigao Del Norte),August,2026
 14 August 2026 - 01:31 PM,5.92,125.27,031,1.5,006  km S 19Â° W of Malapatan (Sarangani),August,2026
-14 August 2026 - 01:26 PM,5.47,125.08,012,2.7,038  km N 80Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+14 August 2026 - 01:26 PM,5.43,125.1,003,2.7,036  km N 88Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
 14 August 2026 - 12:54 PM,5.42,125.23,002,2.0,022  km N 88Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
 14 August 2026 - 12:11 PM,19.34,121.12,029,3.0,027  km N 20Â° W of Dalupiri Island (Calayan) (Cagayan),August,2026
 14 August 2026 - 12:06 PM,5.5,125.12,024,1.8,035  km N 73Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
@@ -16973,68 +17042,137 @@
 01 July 2026 - 12:29 AM,6.89,126.67,192,3.3,030  km S 53Â° E of Tarragona (Davao Oriental),August,2026
 01 July 2026 - 12:13 AM,5.52,125.29,024,1.8,019  km N 51Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
 01 July 2026 - 12:07 AM,4.9,125.03,012,2.9,071  km S 37Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
-15 August 2026 - 10:11 AM,11.05,124.16,006,2.5,020  km N 89Â° E of City Of Bogo (Cebu),August,2026
-15 August 2026 - 09:40 AM,8.26,125.96,016,2.9,010  km N 26Â° W of Bunawan (Agusan Del Sur),August,2026
+16 August 2026 - 10:23 AM,5.9,125.32,032,2.2,008  km S 21Â° E of Malapatan (Sarangani),August,2026
+16 August 2026 - 10:09 AM,8.08,126.09,030,1.2,005  km N 28Â° E of Trento (Agusan Del Sur),August,2026
+16 August 2026 - 10:01 AM,13.68,120.7,159,2.0,018  km S 23Â° E of Calatagan (Batangas),August,2026
+16 August 2026 - 09:37 AM,17.68,120.54,004,2.6,011  km S 50Â° E of San Juan (Ilocos Sur),August,2026
+16 August 2026 - 09:34 AM,10.94,123.93,018,2.2,013  km S 27Â° W of City Of Bogo (Cebu),August,2026
+16 August 2026 - 09:30 AM,14.19,122.29,002,3.3,011  km N 85Â° W of Santa Elena (Camarines Norte),August,2026
+16 August 2026 - 09:00 AM,6.06,126.21,019,3.7,060  km S 75Â° E of Don Marcelino (Davao Occidental),August,2026
+16 August 2026 - 08:31 AM,10.3,126.02,025,1.4,031  km N 03Â° W of Santa Monica (Surigao Del Norte),August,2026
+16 August 2026 - 06:32 AM,7.14,126.3,032,2.1,019  km N 57Â° W of Tarragona (Davao Oriental),August,2026
+16 August 2026 - 06:16 AM,4.99,125.31,008,3.0,048  km S 15Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+16 August 2026 - 06:10 AM,5.06,126.11,081,4.5,084  km S 57Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+16 August 2026 - 05:18 AM,5.43,125.42,030,2.6,002  km N 16Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+16 August 2026 - 04:59 AM,11.73,125.65,023,2.0,022  km S 82Â° E of San Julian (Eastern Samar),August,2026
+16 August 2026 - 04:58 AM,5.82,125.39,021,2.0,020  km N 89Â° E of Glan (Sarangani),August,2026
+16 August 2026 - 04:57 AM,5.44,125.21,021,2.2,024  km N 83Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+16 August 2026 - 04:53 AM,5.28,125.24,033,1.5,025  km S 53Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+16 August 2026 - 04:52 AM,13.57,121.3,007,2.4,013  km S 49Â° E of Lobo (Batangas),August,2026
+16 August 2026 - 04:51 AM,7.08,125.39,012,2.5,027  km N 06Â° W of Santa Cruz (Davao Del Sur),August,2026
+16 August 2026 - 04:47 AM,11.71,125.52,014,2.4,009  km S 55Â° E of San Julian (Eastern Samar),August,2026
+16 August 2026 - 04:41 AM,6.29,127.29,148,2.7,125  km S 48Â° E of Tarragona (Davao Oriental),August,2026
+16 August 2026 - 04:32 AM,6.73,126.05,026,1.7,008  km N 18Â° W of Governor Generoso (Davao Oriental),August,2026
+16 August 2026 - 04:30 AM,8.93,126.46,029,2.6,018  km N 87Â° E of Cagwait (Surigao Del Sur),August,2026
+16 August 2026 - 04:21 AM,6.48,126.82,099,3.3,075  km S 33Â° E of Tarragona (Davao Oriental),August,2026
+16 August 2026 - 04:11 AM,5.46,125.29,019,2.5,015  km N 71Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+16 August 2026 - 04:02 AM,9.9,126.11,034,1.4,004  km N 14Â° E of Pilar (Surigao Del Norte),August,2026
+16 August 2026 - 04:01 AM,9.59,123.73,034,2.3,002  km N 77Â° W of Panglao (Bohol),August,2026
+16 August 2026 - 03:43 AM,17.74,120.48,003,2.3,002  km S 81Â° E of San Juan (Ilocos Sur),August,2026
+16 August 2026 - 03:41 AM,13.39,120.26,034,1.8,022  km S 83Â° W of Paluan (Occidental Mindoro),August,2026
+16 August 2026 - 03:37 AM,13.38,120.24,034,2.5,025  km S 82Â° W of Paluan (Occidental Mindoro),August,2026
+16 August 2026 - 03:35 AM,17.65,120.49,024,1.9,009  km S 59Â° E of Magsingal (Ilocos Sur),August,2026
+16 August 2026 - 03:16 AM,4.84,125.46,106,2.5,063  km S 04Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+16 August 2026 - 03:02 AM,5.61,125.1,025,2.3,027  km S 27Â° W of Glan (Sarangani),August,2026
+16 August 2026 - 02:53 AM,17.72,120.49,004,2.5,005  km S 49Â° E of San Juan (Ilocos Sur),August,2026
+16 August 2026 - 02:41 AM,9.82,125.59,010,1.9,011  km N 71Â° E of City Of Surigao (Surigao Del Norte),August,2026
+16 August 2026 - 02:05 AM,6.99,126.05,028,2.7,005  km N 60Â° E of Banaybanay (Davao Oriental),August,2026
+16 August 2026 - 02:01 AM,5.57,125.32,002,2.8,020  km N 32Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+16 August 2026 - 01:59 AM,5.66,126.52,030,2.2,101  km S 74Â° E of Jose Abad Santos (Davao Occidental),August,2026
+16 August 2026 - 01:17 AM,5.27,126.09,034,2.0,072  km S 72Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+16 August 2026 - 01:15 AM,17.58,120.49,006,2.6,005  km N 32Â° W of San Quintin (Abra),August,2026
+16 August 2026 - 01:13 AM,5.78,125.3,020,2.2,012  km S 69Â° E of Glan (Sarangani),August,2026
+16 August 2026 - 12:08 AM,8.5,125.81,026,1.6,007  km N 25Â° E of Talacogon (Agusan Del Sur),August,2026
+15 August 2026 - 11:55 PM,5.38,125.2,025,2.0,025  km S 83Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+15 August 2026 - 11:25 PM,17.63,120.42,030,1.7,002  km S 39Â° E of Santo Domingo (Ilocos Sur),August,2026
+15 August 2026 - 11:16 PM,6.1,125.72,033,2.1,011  km S 13Â° E of Don Marcelino (Davao Occidental),August,2026
+15 August 2026 - 11:12 PM,15.53,120.02,033,1.4,007  km N 89Â° E of Masinloc (Zambales),August,2026
+15 August 2026 - 11:07 PM,5.23,125.24,032,2.4,028  km S 44Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+15 August 2026 - 10:29 PM,5.4,125.23,030,1.3,021  km S 85Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+15 August 2026 - 10:01 PM,11.13,124.23,026,2.2,019  km N 63Â° W of Palompon (Leyte),August,2026
+15 August 2026 - 09:21 PM,10.64,125.07,010,2.4,013  km S 30Â° E of Abuyog (Leyte),August,2026
+15 August 2026 - 09:10 PM,5.81,124.91,027,2.0,011  km S 58Â° W of Maasim (Sarangani),August,2026
+15 August 2026 - 08:58 PM,6.57,126.44,033,3.1,042  km S 78Â° E of Governor Generoso (Davao Oriental),August,2026
+15 August 2026 - 08:29 PM,5.69,125.19,027,1.8,015  km S 07Â° W of Glan (Sarangani),August,2026
+15 August 2026 - 08:13 PM,5.34,125.29,019,2.5,016  km S 59Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+15 August 2026 - 06:57 PM,5.85,125.27,027,2.0,007  km N 69Â° E of Glan (Sarangani),August,2026
+15 August 2026 - 06:34 PM,18.19,122.08,016,1.9,012  km S 46Â° E of Gonzaga (Cagayan),August,2026
+15 August 2026 - 04:43 PM,5.79,125.43,023,1.4,025  km S 81Â° E of Glan (Sarangani),August,2026
+15 August 2026 - 04:12 PM,8.41,123.35,023,1.5,013  km S 30Â° E of Katipunan (Zamboanga Del Norte),August,2026
+15 August 2026 - 03:49 PM,5.65,125.13,017,1.5,021  km S 23Â° W of Glan (Sarangani),August,2026
+15 August 2026 - 03:44 PM,13.15,120.43,032,1.4,020  km S 63Â° W of Mamburao (Occidental Mindoro),August,2026
+15 August 2026 - 01:44 PM,5.06,125.38,025,2.4,039  km S 07Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+15 August 2026 - 01:22 PM,9.15,126.37,033,2.5,021  km N 47Â° E of Tago (Surigao Del Sur),August,2026
+15 August 2026 - 12:56 PM,5.61,125.33,027,3.3,022  km N 45Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+15 August 2026 - 11:42 AM,13.22,120.83,028,2.1,019  km N 40Â° E of Santa Cruz (Occidental Mindoro),August,2026
+15 August 2026 - 11:38 AM,9.58,126.13,033,1.2,019  km S 76Â° E of Socorro (Surigao Del Norte),August,2026
+15 August 2026 - 11:29 AM,7.46,123.43,021,1.9,002  km S 74Â° E of Tabina (Zamboanga Del Sur),August,2026
+15 August 2026 - 11:15 AM,13.35,120.86,006,3.0,018  km S 54Â° E of Abra De Ilog (Occidental Mindoro),August,2026
+15 August 2026 - 10:57 AM,5.24,125.23,021,3.9,028  km S 49Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+15 August 2026 - 10:40 AM,5.56,125.1,021,1.5,031  km S 22Â° W of Glan (Sarangani),August,2026
+15 August 2026 - 10:28 AM,14.07,120.42,118,1.9,023  km S 89Â° W of Nasugbu (Batangas),August,2026
+15 August 2026 - 10:11 AM,11.04,124.07,002,2.5,011  km S 85Â° E of City Of Bogo (Cebu),August,2026
+15 August 2026 - 09:40 AM,8.31,125.98,021,2.7,015  km N 07Â° W of Bunawan (Agusan Del Sur),August,2026
 15 August 2026 - 09:10 AM,7.42,126.12,034,1.4,011  km N 02Â° W of Maragusan (Davao De Oro),August,2026
-15 August 2026 - 09:09 AM,7.37,126.2,033,1.6,010  km N 55Â° E of Maragusan (Davao De Oro),August,2026
-15 August 2026 - 07:38 AM,4.68,125.19,033,3.8,085  km S 17Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+15 August 2026 - 09:09 AM,7.39,126.26,002,2.0,017  km N 64Â° E of Maragusan (Davao De Oro),August,2026
+15 August 2026 - 07:38 AM,4.87,125.11,015,3.8,070  km S 30Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
 15 August 2026 - 06:28 AM,17.65,120.48,004,2.3,007  km S 58Â° E of Magsingal (Ilocos Sur),August,2026
 15 August 2026 - 06:23 AM,17.67,120.42,037,2.0,002  km S 10Â° W of Magsingal (Ilocos Sur),August,2026
-15 August 2026 - 05:57 AM,17.69,120.49,026,3.2,007  km N 81Â° E of Magsingal (Ilocos Sur),August,2026
+15 August 2026 - 05:57 AM,17.86,120.36,001,3.6,010  km S 87Â° W of Sinait (Ilocos Sur),August,2026
 15 August 2026 - 05:38 AM,7.07,126.67,141,2.2,021  km S 45Â° E of Manay (Davao Oriental),August,2026
-15 August 2026 - 05:37 AM,14.83,122.55,010,2.2,027  km N 58Â° E of Jomalig (Quezon),August,2026
+15 August 2026 - 05:37 AM,14.97,122.61,002,2.6,043  km N 46Â° E of Jomalig (Quezon),August,2026
 15 August 2026 - 05:28 AM,5.55,125.19,025,1.8,030  km N 59Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
 15 August 2026 - 05:14 AM,5.36,125.22,028,1.8,023  km S 75Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
 15 August 2026 - 05:02 AM,5.45,126.38,051,2.6,096  km S 58Â° E of Jose Abad Santos (Davao Occidental),August,2026
-15 August 2026 - 04:30 AM,12.13,124.01,005,2.4,009  km S 81Â° E of Palanas (Masbate),August,2026
+15 August 2026 - 04:30 AM,12.1,123.92,002,2.4,005  km S 02Â° W of Palanas (Masbate),August,2026
 15 August 2026 - 04:30 AM,16.21,119.48,010,2.3,036  km N 73Â° W of Agno (Pangasinan),August,2026
 15 August 2026 - 04:26 AM,16.03,120.18,028,1.8,004  km N 81Â° E of Labrador (Pangasinan),August,2026
-15 August 2026 - 03:42 AM,17.44,120.36,018,2.5,009  km S 54Â° W of Santa (Ilocos Sur),August,2026
+15 August 2026 - 03:42 AM,17.44,120.31,024,2.5,014  km S 70Â° W of Santa (Ilocos Sur),August,2026
 15 August 2026 - 03:40 AM,5.37,125.32,012,2.0,013  km S 68Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
 15 August 2026 - 03:04 AM,15.83,119.94,033,1.6,004  km N 77Â° E of Infanta (Pangasinan),August,2026
-15 August 2026 - 02:56 AM,3.58,128.28,014,3.6,376  km S 56Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+15 August 2026 - 02:56 AM,3.04,127.82,013,3.8,374  km S 45Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
 15 August 2026 - 02:55 AM,8.8,126.02,034,1.5,017  km S 06Â° W of San Miguel (Surigao Del Sur),August,2026
 15 August 2026 - 02:54 AM,5.77,125.26,018,2.1,009  km S 51Â° E of Glan (Sarangani),August,2026
 15 August 2026 - 02:51 AM,4.94,125.45,037,2.3,052  km S 03Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
 15 August 2026 - 02:39 AM,5.4,125.41,020,2.2,002  km S 54Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
-15 August 2026 - 02:32 AM,16.41,122.01,003,2.0,019  km N 40Â° W of Casiguran (Aurora),August,2026
-15 August 2026 - 02:23 AM,16.45,119.77,024,3.1,015  km N 63Â° W of Bolinao (Pangasinan),August,2026
-15 August 2026 - 02:03 AM,3.12,127.94,004,4.7,377  km S 48Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
-15 August 2026 - 01:50 AM,10.39,126.33,006,2.0,050  km N 34Â° E of Burgos (Surigao Del Norte),August,2026
+15 August 2026 - 02:32 AM,16.42,121.96,003,2.0,023  km N 48Â° W of Casiguran (Aurora),August,2026
+15 August 2026 - 02:23 AM,16.46,119.81,020,3.1,011  km N 49Â° W of Bolinao (Pangasinan),August,2026
+15 August 2026 - 02:03 AM,3.65,128.08,015,4.7,353  km S 55Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+15 August 2026 - 01:50 AM,10.38,126.29,013,2.2,046  km N 30Â° E of Burgos (Surigao Del Norte),August,2026
 15 August 2026 - 01:31 AM,5.98,125.27,028,1.9,002  km N 68Â° W of Malapatan (Sarangani),August,2026
 15 August 2026 - 01:22 AM,5.83,126.03,082,2.4,044  km S 78Â° E of Jose Abad Santos (Davao Occidental),August,2026
-15 August 2026 - 01:10 AM,12.13,123.99,005,2.3,007  km S 77Â° E of Palanas (Masbate),August,2026
-15 August 2026 - 01:07 AM,8.82,126.42,032,1.6,014  km N 81Â° E of Marihatag (Surigao Del Sur),August,2026
+15 August 2026 - 01:10 AM,12.1,123.94,002,2.3,005  km S 19Â° E of Palanas (Masbate),August,2026
+15 August 2026 - 01:07 AM,8.81,126.36,028,1.8,007  km N 79Â° E of Marihatag (Surigao Del Sur),August,2026
 15 August 2026 - 12:37 AM,8.56,125.78,013,2.4,008  km N 31Â° E of San Luis (Agusan Del Sur),August,2026
 15 August 2026 - 12:37 AM,7.93,126.4,024,1.8,007  km N 23Â° E of Boston (Davao Oriental),August,2026
 15 August 2026 - 12:16 AM,5.34,125.25,015,2.1,020  km S 67Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
-15 August 2026 - 12:01 AM,17.23,121.17,017,2.5,005  km S 33Â° E of Tinglayan (Kalinga),August,2026
-14 August 2026 - 11:57 PM,5.42,125.22,013,1.8,022  km N 89Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+15 August 2026 - 12:01 AM,17.26,121.21,008,2.6,003  km S 53Â° W of Tanudan (Kalinga),August,2026
+14 August 2026 - 11:57 PM,5.12,125.57,105,2.0,036  km S 27Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
 14 August 2026 - 11:21 PM,13.28,120.45,028,1.3,015  km S 04Â° W of Paluan (Occidental Mindoro),August,2026
 14 August 2026 - 11:18 PM,6.83,124.5,033,1.4,005  km S 87Â° E of Ampatuan (Maguindanao Del Sur),August,2026
-14 August 2026 - 11:10 PM,10.34,126.34,006,1.5,047  km N 39Â° E of Burgos (Surigao Del Norte),August,2026
-14 August 2026 - 10:31 PM,7.86,123.46,026,1.5,005  km N 39Â° E of City Of Pagadian (Zamboanga Del Sur),August,2026
+14 August 2026 - 11:10 PM,10.27,126.35,005,2.5,041  km N 48Â° E of Burgos (Surigao Del Norte),August,2026
+14 August 2026 - 10:31 PM,7.86,123.41,021,1.6,004  km N 36Â° W of City Of Pagadian (Zamboanga Del Sur),August,2026
 14 August 2026 - 10:27 PM,6.87,124.63,011,2.2,003  km S 82Â° E of Sultan Sa Barongis (Maguindanao Del Sur),August,2026
 14 August 2026 - 10:17 PM,5.63,125.43,024,2.0,018  km N 16Â° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),August,2026
 14 August 2026 - 09:37 PM,5.7,125.27,016,2.1,015  km S 29Â° E of Glan (Sarangani),August,2026
-14 August 2026 - 09:35 PM,5.95,125.39,023,2.0,012  km S 80Â° E of Malapatan (Sarangani),August,2026
+14 August 2026 - 09:35 PM,5.72,125.39,025,2.1,024  km S 62Â° E of Glan (Sarangani),August,2026
 14 August 2026 - 09:31 PM,6.58,125.64,026,2.0,019  km N 11Â° E of Malita (Davao Occidental),August,2026
 14 August 2026 - 09:01 PM,5.51,125.01,020,2.0,040  km S 03Â° E of Maasim (Sarangani),August,2026
-14 August 2026 - 08:49 PM,8.77,126.55,005,1.7,028  km S 82Â° E of Marihatag (Surigao Del Sur),August,2026
+14 August 2026 - 08:49 PM,9.03,126.52,033,1.7,027  km N 75Â° E of Bayabas (Surigao Del Sur),August,2026
 14 August 2026 - 08:26 PM,5.2,125.27,018,2.0,029  km S 35Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
-14 August 2026 - 07:56 PM,4.6,125.45,032,2.9,090  km S 02Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
-14 August 2026 - 07:08 PM,14.78,119.57,029,2.4,058  km S 71Â° W of San Antonio (Zambales),August,2026
-14 August 2026 - 07:00 PM,5.3,125.37,020,2.2,014  km S 23Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
-14 August 2026 - 06:13 PM,5.38,125.32,066,2.8,011  km S 72Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+14 August 2026 - 07:56 PM,4.56,125.81,006,2.9,104  km S 25Â° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+14 August 2026 - 07:08 PM,14.7,119.27,028,2.4,092  km S 73Â° W of San Antonio (Zambales),August,2026
+14 August 2026 - 07:00 PM,4.93,125.35,036,2.5,054  km S 08Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+14 August 2026 - 06:13 PM,5.28,125.29,033,2.9,021  km S 44Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
 14 August 2026 - 05:43 PM,4.45,127.99,198,3.2,302  km S 68Â° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),August,2026
 14 August 2026 - 03:43 PM,6.12,126.37,149,3.6,067  km S 29Â° E of Governor Generoso (Davao Oriental),August,2026
-14 August 2026 - 03:32 PM,8.59,126.04,016,2.2,008  km S 54Â° W of Lianga (Surigao Del Sur),August,2026
-14 August 2026 - 02:35 PM,9.49,126.18,032,3.7,024  km N 03Â° W of Cortes (Surigao Del Sur),August,2026
-14 August 2026 - 02:14 PM,5.64,125.32,020,2.5,024  km S 32Â° E of Glan (Sarangani),August,2026
+14 August 2026 - 03:32 PM,8.69,125.98,011,2.3,014  km N 63Â° W of Lianga (Surigao Del Sur),August,2026
+14 August 2026 - 02:35 PM,9.52,126.23,029,3.7,027  km N 08Â° E of Cortes (Surigao Del Sur),August,2026
+14 August 2026 - 02:14 PM,5.76,125.31,012,2.5,014  km S 62Â° E of Glan (Sarangani),August,2026
 14 August 2026 - 01:45 PM,10.38,126.39,002,2.3,053  km N 41Â° E of Burgos (Surigao Del Norte),August,2026
 14 August 2026 - 01:33 PM,10.13,125.96,012,1.8,014  km N 35Â° W of Santa Monica (Surigao Del Norte),August,2026
 14 August 2026 - 01:31 PM,5.92,125.27,031,1.5,006  km S 19Â° W of Malapatan (Sarangani),August,2026
-14 August 2026 - 01:26 PM,5.47,125.08,012,2.7,038  km N 80Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
+14 August 2026 - 01:26 PM,5.43,125.1,003,2.7,036  km N 88Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
 14 August 2026 - 12:54 PM,5.42,125.23,002,2.0,022  km N 88Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
 14 August 2026 - 12:11 PM,19.34,121.12,029,3.0,027  km N 20Â° W of Dalupiri Island (Calayan) (Cagayan),August,2026
 14 August 2026 - 12:06 PM,5.5,125.12,024,1.8,035  km N 73Â° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),August,2026
